@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Naruto Uzumaki",
+      "anime": "Naruto",
+      "mal_id": 12,
+      "character_page": "https://myanimelist.net/character/12/Naruto_Uzumaki"
+    },
+    {
+      "name": "Sasuke Uchiha",
+      "anime": "Naruto",
+      "mal_id": 14,
+      "character_page": "https://myanimelist.net/character/14/Sasuke_Uchiha"
+    },
+    {
+      "name": "Sakura Haruno",
+      "anime": "Naruto",
+      "mal_id": 13,
+      "character_page": "https://myanimelist.net/character/13/Sakura_Haruno"
+    },
+    {
+      "name": "Monkey D. Luffy",
+      "anime": "One Piece",
+      "mal_id": 5,
+      "character_page": "https://myanimelist.net/character/5/Monkey_D_Luffy"
+    },
+    {
+      "name": "Roronoa Zoro",
+      "anime": "One Piece",
+      "mal_id": 6,
+      "character_page": "https://myanimelist.net/character/6/Roronoa_Zoro"
+    },
+    {
+      "name": "Goku",
+      "anime": "Dragon Ball Z",
+      "mal_id": 1,
+      "character_page": "https://myanimelist.net/character/1/Son_Goku"
+    },
+    {
+      "name": "Vegeta",
+      "anime": "Dragon Ball Z",
+      "mal_id": 18,
+      "character_page": "https://myanimelist.net/character/18/Vegeta"
+    },
+    {
+      "name": "Eren Yeager",
+      "anime": "Attack on Titan",
+      "mal_id": 93803,
+      "character_page": "https://myanimelist.net/character/93803/Eren_Yeager"
+    },
+    {
+      "name": "Tanjiro Kamado",
+      "anime": "Demon Slayer",
+      "mal_id": 191573,
+      "character_page": "https://myanimelist.net/character/191573/Tanjiro_Kamado"
+    },
+    {
+      "name": "Izuku Midoriya",
+      "anime": "My Hero Academia",
+      "mal_id": 171337,
+      "character_page": "https://myanimelist.net/character/171337/Izuku_Midoriya"
+    }
+  ]
+}

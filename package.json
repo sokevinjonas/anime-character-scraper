@@ -1,0 +1,9 @@
+{
+  "name": "anime-character-scraper",
+  "version": "1.0.0",
+  "description": "Scrape anime character data",
+  "scripts": {
+    "scrape": "python3 scraper.py --file data/all_characters.json --output knowledge-base.json",
+    "format": "python3 format_for_backend.py knowledge-base.json"
+  }
+}
