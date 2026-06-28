@@ -58,10 +58,16 @@ class FandomScraper:
 
             details = {
                 'url': char_url,
+                'imageUrl': '',
                 'infobox': {},
                 'biography': '',
                 'personality': ''
             }
+
+            # Image URL from infobox
+            infobox_img = soup.find('img', class_='pi-image-thumbnail')
+            if infobox_img and infobox_img.get('src'):
+                details['imageUrl'] = infobox_img.get('src')
 
             # Infobox
             infobox = soup.find('table', class_='wikitable')

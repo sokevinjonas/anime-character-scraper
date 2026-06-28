@@ -76,11 +76,19 @@ class MyAnimeListScraper:
 
             details = {
                 'url': character_url,
+                'imageUrl': '',
                 'description': '',
                 'voiced_by': [],
                 'appears_in': [],
                 'attributes': {}
             }
+
+            # Image URL
+            img_div = soup.find('div', class_='pl4')
+            if img_div:
+                img_tag = img_div.find('img')
+                if img_tag and img_tag.get('src'):
+                    details['imageUrl'] = img_tag.get('src')
 
             # Description
             desc_div = soup.find('div', class_='js-scrollfix-bottom-rel')

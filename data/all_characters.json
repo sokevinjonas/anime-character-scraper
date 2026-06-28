@@ -1,154 +1,2424 @@
 {
   "characters": [
-    {"name": "Naruto Uzumaki", "anime": "Naruto"},
-    {"name": "Sasuke Uchiha", "anime": "Naruto"},
-    {"name": "Sakura Haruno", "anime": "Naruto"},
-    {"name": "Kakashi Hatake", "anime": "Naruto"},
-    {"name": "Itachi Uchiha", "anime": "Naruto"},
-    {"name": "Madara Uchiha", "anime": "Naruto"},
-    {"name": "Hinata Hyuga", "anime": "Naruto"},
-    {"name": "Shikamaru Nara", "anime": "Naruto"},
-    {"name": "Jiraiya", "anime": "Naruto"},
-    {"name": "Orochimaru", "anime": "Naruto"},
-    {"name": "Monkey D. Luffy", "anime": "One Piece"},
-    {"name": "Roronoa Zoro", "anime": "One Piece"},
-    {"name": "Nami", "anime": "One Piece"},
-    {"name": "Usopp", "anime": "One Piece"},
-    {"name": "Sanji", "anime": "One Piece"},
-    {"name": "Tony Tony Chopper", "anime": "One Piece"},
-    {"name": "Nico Robin", "anime": "One Piece"},
-    {"name": "Franky", "anime": "One Piece"},
-    {"name": "Brook", "anime": "One Piece"},
-    {"name": "Dracule Mihawk", "anime": "One Piece"},
-    {"name": "Goku", "anime": "Dragon Ball Z"},
-    {"name": "Vegeta", "anime": "Dragon Ball Z"},
-    {"name": "Gohan", "anime": "Dragon Ball Z"},
-    {"name": "Goten", "anime": "Dragon Ball Z"},
-    {"name": "Trunks", "anime": "Dragon Ball Z"},
-    {"name": "Frieza", "anime": "Dragon Ball Z"},
-    {"name": "Cell", "anime": "Dragon Ball Z"},
-    {"name": "Majin Buu", "anime": "Dragon Ball Z"},
-    {"name": "Krillin", "anime": "Dragon Ball Z"},
-    {"name": "Piccolo", "anime": "Dragon Ball Z"},
-    {"name": "Eren Yeager", "anime": "Attack on Titan"},
-    {"name": "Mikasa Ackerman", "anime": "Attack on Titan"},
-    {"name": "Levi Ackerman", "anime": "Attack on Titan"},
-    {"name": "Armin Arlet", "anime": "Attack on Titan"},
-    {"name": "Annie Leonhart", "anime": "Attack on Titan"},
-    {"name": "Bertholdt Hoover", "anime": "Attack on Titan"},
-    {"name": "Reiner Braun", "anime": "Attack on Titan"},
-    {"name": "Historia Reiss", "anime": "Attack on Titan"},
-    {"name": "Ymir", "anime": "Attack on Titan"},
-    {"name": "Jean Kirstein", "anime": "Attack on Titan"},
-    {"name": "Tanjiro Kamado", "anime": "Demon Slayer"},
-    {"name": "Nezuko Kamado", "anime": "Demon Slayer"},
-    {"name": "Zenitsu Agatsuma", "anime": "Demon Slayer"},
-    {"name": "Inosuke Hashibira", "anime": "Demon Slayer"},
-    {"name": "Kanao Tsuyuri", "anime": "Demon Slayer"},
-    {"name": "Giyu Tomioka", "anime": "Demon Slayer"},
-    {"name": "Shinobu Kocho", "anime": "Demon Slayer"},
-    {"name": "Kyojuro Rengoku", "anime": "Demon Slayer"},
-    {"name": "Tengen Uzui", "anime": "Demon Slayer"},
-    {"name": "Muzan Kibutsuji", "anime": "Demon Slayer"},
-    {"name": "Izuku Midoriya", "anime": "My Hero Academia"},
-    {"name": "Katsuki Bakugo", "anime": "My Hero Academia"},
-    {"name": "All Might", "anime": "My Hero Academia"},
-    {"name": "Shoto Todoroki", "anime": "My Hero Academia"},
-    {"name": "Tsuyu Asui", "anime": "My Hero Academia"},
-    {"name": "Iida Tenya", "anime": "My Hero Academia"},
-    {"name": "Momo Yaoyorozu", "anime": "My Hero Academia"},
-    {"name": "Kaminari Denki", "anime": "My Hero Academia"},
-    {"name": "Jirou Kyoka", "anime": "My Hero Academia"},
-    {"name": "Mineta Minoru", "anime": "My Hero Academia"},
-    {"name": "Light Yagami", "anime": "Death Note"},
-    {"name": "L Lawliet", "anime": "Death Note"},
-    {"name": "Ryuk", "anime": "Death Note"},
-    {"name": "Misa Amane", "anime": "Death Note"},
-    {"name": "Near", "anime": "Death Note"},
-    {"name": "Mello", "anime": "Death Note"},
-    {"name": "Watari", "anime": "Death Note"},
-    {"name": "Soichiro Yagami", "anime": "Death Note"},
-    {"name": "Matsuda Touta", "anime": "Death Note"},
-    {"name": "Aizawa Sousuke", "anime": "Death Note"},
-    {"name": "Yuji Itadori", "anime": "Jujutsu Kaisen"},
-    {"name": "Satoru Gojo", "anime": "Jujutsu Kaisen"},
-    {"name": "Megumi Fushiguro", "anime": "Jujutsu Kaisen"},
-    {"name": "Nobara Kugisaki", "anime": "Jujutsu Kaisen"},
-    {"name": "Ryomen Sukuna", "anime": "Jujutsu Kaisen"},
-    {"name": "Nanami Kento", "anime": "Jujutsu Kaisen"},
-    {"name": "Gege Akutami", "anime": "Jujutsu Kaisen"},
-    {"name": "Mahito", "anime": "Jujutsu Kaisen"},
-    {"name": "Todou Aoi", "anime": "Jujutsu Kaisen"},
-    {"name": "Maki Zenin", "anime": "Jujutsu Kaisen"},
-    {"name": "Ichigo Kurosaki", "anime": "Bleach"},
-    {"name": "Rukia Kuchiki", "anime": "Bleach"},
-    {"name": "Sosuke Aizen", "anime": "Bleach"},
-    {"name": "Byakuya Kuchiki", "anime": "Bleach"},
-    {"name": "Renji Abarai", "anime": "Bleach"},
-    {"name": "Orihime Inoue", "anime": "Bleach"},
-    {"name": "Uryu Ishida", "anime": "Bleach"},
-    {"name": "Kisuke Urahara", "anime": "Bleach"},
-    {"name": "Yoruichi Shihoin", "anime": "Bleach"},
-    {"name": "Kenpachi Zaraki", "anime": "Bleach"},
-    {"name": "Kirito", "anime": "Sword Art Online"},
-    {"name": "Asuna Yuuki", "anime": "Sword Art Online"},
-    {"name": "Sinon", "anime": "Sword Art Online"},
-    {"name": "Lisbeth", "anime": "Sword Art Online"},
-    {"name": "Silica", "anime": "Sword Art Online"},
-    {"name": "Yui", "anime": "Sword Art Online"},
-    {"name": "Heathcliff", "anime": "Sword Art Online"},
-    {"name": "Kayaba Akihiko", "anime": "Sword Art Online"},
-    {"name": "Leafa", "anime": "Sword Art Online"},
-    {"name": "Eugeo", "anime": "Sword Art Online"},
-    {"name": "Ken Kaneki", "anime": "Tokyo Ghoul"},
-    {"name": "Touka Kirishima", "anime": "Tokyo Ghoul"},
-    {"name": "Hide Nagachika", "anime": "Tokyo Ghoul"},
-    {"name": "Rize Kamishiro", "anime": "Tokyo Ghoul"},
-    {"name": "Uta", "anime": "Tokyo Ghoul"},
-    {"name": "Tsukumo", "anime": "Tokyo Ghoul"},
-    {"name": "Ayato Kirishima", "anime": "Tokyo Ghoul"},
-    {"name": "Hinami Fueguchi", "anime": "Tokyo Ghoul"},
-    {"name": "Noro", "anime": "Tokyo Ghoul"},
-    {"name": "Jason", "anime": "Tokyo Ghoul"},
-    {"name": "Saitama", "anime": "One Punch Man"},
-    {"name": "Genos", "anime": "One Punch Man"},
-    {"name": "Bang", "anime": "One Punch Man"},
-    {"name": "Bomb", "anime": "One Punch Man"},
-    {"name": "Tornado", "anime": "One Punch Man"},
-    {"name": "Flashy Flash", "anime": "One Punch Man"},
-    {"name": "King", "anime": "One Punch Man"},
-    {"name": "Mumen Rider", "anime": "One Punch Man"},
-    {"name": "Boros", "anime": "One Punch Man"},
-    {"name": "Garou", "anime": "One Punch Man"},
-    {"name": "Loid Forger", "anime": "Spy x Family"},
-    {"name": "Yor Forger", "anime": "Spy x Family"},
-    {"name": "Anya Forger", "anime": "Spy x Family"},
-    {"name": "Frankie", "anime": "Spy x Family"},
-    {"name": "Becky Blackbell", "anime": "Spy x Family"},
-    {"name": "Damian Desmond", "anime": "Spy x Family"},
-    {"name": "Sylvia Sherwood", "anime": "Spy x Family"},
-    {"name": "Martha Marriott", "anime": "Spy x Family"},
-    {"name": "Bond Forger", "anime": "Spy x Family"},
-    {"name": "Yuri Briar", "anime": "Spy x Family"},
-    {"name": "Edward Elric", "anime": "Fullmetal Alchemist"},
-    {"name": "Alphonse Elric", "anime": "Fullmetal Alchemist"},
-    {"name": "Roy Mustang", "anime": "Fullmetal Alchemist"},
-    {"name": "Riza Hawkeye", "anime": "Fullmetal Alchemist"},
-    {"name": "Winry Rockbell", "anime": "Fullmetal Alchemist"},
-    {"name": "Scar", "anime": "Fullmetal Alchemist"},
-    {"name": "Envy", "anime": "Fullmetal Alchemist"},
-    {"name": "Greed", "anime": "Fullmetal Alchemist"},
-    {"name": "Homunculus", "anime": "Fullmetal Alchemist"},
-    {"name": "King Bradley", "anime": "Fullmetal Alchemist"},
-    {"name": "Gon Freecss", "anime": "Hunter x Hunter"},
-    {"name": "Killua Zoldyck", "anime": "Hunter x Hunter"},
-    {"name": "Leorio Paradinight", "anime": "Hunter x Hunter"},
-    {"name": "Kurapika", "anime": "Hunter x Hunter"},
-    {"name": "Hisoka Morow", "anime": "Hunter x Hunter"},
-    {"name": "Illumi Zoldyck", "anime": "Hunter x Hunter"},
-    {"name": "Chrollo Lucilfer", "anime": "Hunter x Hunter"},
-    {"name": "Netero", "anime": "Hunter x Hunter"},
-    {"name": "Meruem", "anime": "Hunter x Hunter"},
-    {"name": "Royal Guards", "anime": "Hunter x Hunter"}
+    {
+      "name": "Naruto Uzumaki",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Sasuke Uchiha",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Sakura Haruno",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Kakashi Hatake",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Itachi Uchiha",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Madara Uchiha",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hinata Hyuga",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Shikamaru Nara",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Jiraiya",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Orochimaru",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Pain",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Konan",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Deidara",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Kisame Hoshigaki",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Zetsu",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hidan",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Kakuzu",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Sasori",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Obito Uchiha",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Nagato",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Minato Namikaze",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Kushina Uzumaki",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Fugaku Uchiha",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Mikoto Uchiha",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Yamato",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Sai",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Ino Yamanaka",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Choji Akimichi",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Rock Lee",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Neji Hyuga",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Tenten",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Tsunade",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Jiraiya",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Orochimaru",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hanzo",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Asuma Sarutobi",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Kurenai Yuhi",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Might Gai",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Raidou Namiashi",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Genma Shiranui",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Ebisu",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Iruka Umino",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Anko Mitarashi",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Shizune",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Shikaku Nara",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Yoshino Nara",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Choza Akimichi",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Choji's Mother",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hiashi Hyuga",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Neji's Father",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hanabi Hyuga",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Boruto Uzumaki",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Mitsuki",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Sarada Uchiha",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hayabusa",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Chiyo",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hanzo",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Temari",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Gaara",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Kankuro",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Baki",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Ebizo",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Mebuki Haruno",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Fugaku Uchiha",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Mikoto Uchiha",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Shikaku Nara",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Yoshino Nara",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Choza Akimichi",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Choji's Father",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hiashi Hyuga",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hizashi Hyuga",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Neji's Father",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Hanabi Hyuga",
+      "anime": "Naruto"
+    },
+    {
+      "name": "Monkey D. Luffy",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Roronoa Zoro",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Nami",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Usopp",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Sanji",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Tony Tony Chopper",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Nico Robin",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Franky",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Brook",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Dracule Mihawk",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Buggy",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Arlong",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Crocodile",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Donquixote Doflamingo",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Bartholomew Kuma",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Boa Hancock",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Trafalgar Law",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Eustass Kid",
+      "anime": "One Piece"
+    },
+    {
+      "name": "X Drake",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Jewelry Bonney",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Capone Bege",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Urouge",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Basil Hawkins",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Scratchmen Apoo",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Killer",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Ace",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Sabo",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Dragon",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Garp",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Sengoku",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Aokiji",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Kizaru",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Akainu",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Fujitora",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Ryokugyu",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Smoker",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Tashigi",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Coby",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Helmeppo",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Alvida",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Shanks",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Cavendish",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Leo",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Sai",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Ideo",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Hajrudin",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Pica",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Viola",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Rebecca",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Kyros",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Ricky",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Momonosuke",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Kinemon",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Inuarashi",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Nekomamushi",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Mink Tribe",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Carrot",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Wanda",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Pekoms",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Tamago",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Baron Tamago",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Puffin",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Pedro",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Shogun",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Yuki",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Reiju",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Germa 66",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Big Mom",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Kaido",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Whitebeard",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Blackbeard",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Luffys Crew",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Straw Hat",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Red Hair Pirates",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Beast Pirates",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Portgas D. Ace",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Sabo",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Dragon",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Garp",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Sengoku",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Smoker",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Coby",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Helmeppo",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Alvida",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Jango",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Nojiko",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Genzo",
+      "anime": "One Piece"
+    },
+    {
+      "name": "Goku",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Vegeta",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Gohan",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Goten",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Trunks",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Frieza",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Cell",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Majin Buu",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Krillin",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Piccolo",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Yamcha",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Tien",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Chiaotzu",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Master Roshi",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Bulma",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Chi-Chi",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Future Trunks",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Future Gohan",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Android 18",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Android 17",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Android 16",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Android 19",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Android 20",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Dr. Gero",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Babidi",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Dabura",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Supreme Kai",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Shin",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Old Kai",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Kibito",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "King Kai",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Kami",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Mr. Popo",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Garlic Jr",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Lord Slug",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Cooler",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Broly",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Janemba",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Fusion Reborn",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Kid Buu",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Evil Buu",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Good Buu",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Super Buu",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "West Kai",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "North Kai",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "South Kai",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "East Kai",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Kaioshin",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Beerus",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Whis",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Gowasu",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "name": "Ichigo Kurosaki",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Rukia Kuchiki",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Sosuke Aizen",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Byakuya Kuchiki",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Renji Abarai",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Orihime Inoue",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Uryu Ishida",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Kisuke Urahara",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Yoruichi Shihoin",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Kenpachi Zaraki",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Retsu Unohana",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Shunsui Kyoraku",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Jushiro Ukitake",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Soi Fon",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Gin Ichimaru",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Kaname Tosen",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Toshiro Hitsugaya",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Rangiku Matsumoto",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Yumichika Ayasegawa",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Ikkaku Madarame",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Isane Kotetsu",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Nanao Ise",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Momo Hinamori",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Izuru Kira",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Shuhei Hisagi",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Rojuro Otoribashi",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Yumichika",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Ikkaku",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Hanataro Yamada",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Kiyone Kotetsu",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Sentaro Kotsubaki",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Ulquiorra Cifer",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Grimmjow Jaegerjaquez",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Nnoitra Gilga",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Szayelaporro Granz",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Aaroniero Arruruerie",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Yammy Llargo",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Tier Harribel",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Baraggan Louisenbairn",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Coyote Starrk",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Luppi Antenor",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Grand Fisher",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Shrieker",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Acidwire",
+      "anime": "Bleach"
+    },
+    {
+      "name": "White Ichigo",
+      "anime": "Bleach"
+    },
+    {
+      "name": "White",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Tia Halibel",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Adapting Soul",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Metastasia",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Yachiru Kusajishi",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Ikkaku Madarame",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Yumichika Ayasegawa",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Isane Kotetsu",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Nanao Ise",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Momo Hinamori",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Izuru Kira",
+      "anime": "Bleach"
+    },
+    {
+      "name": "Izuku Midoriya",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Katsuki Bakugo",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "All Might",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Shoto Todoroki",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Tsuyu Asui",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Iida Tenya",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Momo Yaoyorozu",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Kaminari Denki",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Jirou Kyoka",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Mineta Minoru",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Kirishima Eijiro",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Koda Koji",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Ojirou Mashirao",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Sato Rikido",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Deku",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Aizawa Shouta",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Present Mic",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Midnight",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "All Might",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Endeavor",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Best Jeanist",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Hawks",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Dabi",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Toga Himiko",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Spinner",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Compress",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Twice",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Mr. Compress",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Stain",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Muscular",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Moonfish",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Overhaul",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Eri",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Lemillion",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Togen Zenin",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Tamaki Amajiki",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Nejire Hadou",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Fat Gum",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Red Riot",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Kirishima",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Sugarman",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Tentacole",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Bondo",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Pixie-Bob",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Tiger",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Mandalay",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Vlad King",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "13",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Recovery Girl",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Cementoss",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Power Loader",
+      "anime": "My Hero Academia"
+    },
+    {
+      "name": "Yuji Itadori",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Satoru Gojo",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Megumi Fushiguro",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Nobara Kugisaki",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Ryomen Sukuna",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Nanami Kento",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Mahito",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Todou Aoi",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Maki Zenin",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Panda",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Inumaki Toge",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Gege Akutami",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Junpei Yoshino",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Getou Suguru",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Yuta Okkotsu",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Mima Kitagawa",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Mimicry",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Death Paintings",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Choso",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Uraume",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Kenjaku",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Sukuna's Fingers",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Special Grade",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Jogo",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Hanami",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Dagon",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Geto",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Yuki Tsukumo",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Shoko Ieiri",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Masamichi Yaga",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Atsuya Kusakabe",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Useless Curse",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Curses",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Humans",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Sorcerers",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Michizane Sugawara",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Raidou",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Takuma Ino",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Naoya Zenin",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Maki Sister",
+      "anime": "Jujutsu Kaisen"
+    },
+    {
+      "name": "Tanjiro Kamado",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Nezuko Kamado",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Zenitsu Agatsuma",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Inosuke Hashibira",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Kanao Tsuyuri",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Giyu Tomioka",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Shinobu Kocho",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Kyojuro Rengoku",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Tengen Uzui",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Muzan Kibutsuji",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Tomioka Giyu",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Kanroji Mitsuri",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Iguro Obanai",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Shinazugawa Sanemi",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Rengoku Kyojuro",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Uzui Tengen",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Kocho Shinobu",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Kanae Kocho",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Sakonji Urokodaki",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Sabito",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Makomo",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Susamaru",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Yahaba",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Rui",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Enmu",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Akaza",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Doma",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Kokushibo",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Hairou",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Kaigaku",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Yushiro",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Aoi Kanzaki",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Sumi Nakamura",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Kiyo Terauchi",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Naho Takada",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Genya Shinazugawa",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Hantengu",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Gyutaro",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Daki",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Sekido",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Karaku",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Urogi",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Upper Moon Demons",
+      "anime": "Demon Slayer"
+    },
+    {
+      "name": "Eren Yeager",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Mikasa Ackerman",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Levi Ackerman",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Armin Arlet",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Annie Leonhart",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Bertholdt Hoover",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Reiner Braun",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Historia Reiss",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Ymir",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Jean Kirstein",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Sasha Blouse",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Connie Springer",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Marco Bott",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Thomas Wagner",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Mina Carolina",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Oruo Bornstein",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Petra Ral",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Gunther Schultz",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Erwin Smith",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Hange Zoe",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Zeke Yeager",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Tom Ксава",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Kenny Ackerman",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Rod Reiss",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Frieda Reiss",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Carla Yeager",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Dina Fritz",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Grisha Yeager",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Fay Yeager",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Pixis",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Nile Dawk",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Dot Pixis",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Commander Pyxis",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Beast Titan",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Colossal Titan",
+      "anime": "Attack on Titan"
+    },
+    {
+      "name": "Edward Elric",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Alphonse Elric",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Roy Mustang",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Riza Hawkeye",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Winry Rockbell",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Scar",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Envy",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Greed",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Sloth",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Pride",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Wrath",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Lust",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Gluttony",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Homunculus",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "King Bradley",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Maes Hughes",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Jean Havoc",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Heymans Breda",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Kain Fuery",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Maria Ross",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Sheska",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Shou Tucker",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Nina Tucker",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Liore",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Cornello",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Father",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Hohenheim",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Trisha A. Hughes",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Ross",
+      "anime": "Fullmetal Alchemist"
+    },
+    {
+      "name": "Gon Freecss",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Killua Zoldyck",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Leorio Paradinight",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Kurapika",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Hisoka Morow",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Illumi Zoldyck",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Chrollo Lucilfer",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Netero",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Meruem",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Shaiapouf",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Neferpitou",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Menthuthuyoupi",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Alluka Zoldyck",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Milluki Zoldyck",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Kalluto Zoldyck",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Silva Zoldyck",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Kikyo Zoldyck",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Bisky",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Wing",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Canary",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Palm Siberia",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Knov",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Morel",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Biscuit Kruger",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Chimera Ant Queen",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Pokkle",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Ponzu",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Tonpa",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "name": "Lelouch vi Britannia",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Kallen Kouzuki",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Suzaku Kururugi",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "CC",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Milly Ashford",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Rivalz Cardemonde",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Shirley Fenette",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Nina Einstein",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Schneizel el Britannia",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Clovis la Britannia",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Cornelia li Britannia",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Euphemia li Britannia",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Odyssey",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Rolo Haliburton",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Jeremiah Gottwald",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Villetta Nu",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Ran Darts",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Lloyd Asplund",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Cecile Croomy",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Sayoko Shinozaki",
+      "anime": "Code Geass"
+    },
+    {
+      "name": "Rintaro Okabe",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Kurisu Makise",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Mayuri Shiina",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Itaru Hashida",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Luka Urushibara",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Moeka Kiryu",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Sern",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Amane Suzuha",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Maho Hiyajo",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Kageyama Shien",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Faris Nyan-Nyan",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Nae Tutusushi",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "John Titor",
+      "anime": "Steins Gate"
+    },
+    {
+      "name": "Akane Tsunemori",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Shinya Kougami",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Nobuchika Ginoza",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Shrei Masaoka",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Yayoi Kunizuka",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Tomomi Masaoka",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Shusei Kagari",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Makishima Shougo",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Sibyl System",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Remo Tsukumo",
+      "anime": "Psycho-Pass"
+    },
+    {
+      "name": "Shigeo Kageyama",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Reigen Arataka",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Teruki Hanazawa",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Ritsu Kageyama",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Dimple",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Tomohito Tomoe",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Mitsuo Kumagami",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Tsubomi Takane",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Serizawa Katsuya",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Claw Organization",
+      "anime": "Mob Psycho 100"
+    },
+    {
+      "name": "Thorfinn",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Askeladd",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Ragnar Lothbrok",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Canute",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Floki",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Leif Erikson",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Thors",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Sigrid",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Ketil",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Arnheid",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Snake",
+      "anime": "Vinland Saga"
+    },
+    {
+      "name": "Bam",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Khun Aguero Agnes",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Rak Wraithraiser",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Yuri Zahard",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Endorsi Zahard",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Anaak Jahad",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Hatsu",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Shibisu",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Novick",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Sora",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Deng Deng",
+      "anime": "Tower of God"
+    },
+    {
+      "name": "Sung Jinwoo",
+      "anime": "Solo Leveling"
+    },
+    {
+      "name": "Sung Jihye",
+      "anime": "Solo Leveling"
+    },
+    {
+      "name": "Sung Hyein",
+      "anime": "Solo Leveling"
+    },
+    {
+      "name": "Cha Hae-in",
+      "anime": "Solo Leveling"
+    },
+    {
+      "name": "Yoo Ryeo-han",
+      "anime": "Solo Leveling"
+    },
+    {
+      "name": "Go Gunhee",
+      "anime": "Solo Leveling"
+    },
+    {
+      "name": "Baek Yoonho",
+      "anime": "Solo Leveling"
+    },
+    {
+      "name": "Thomas Andre",
+      "anime": "Solo Leveling"
+    },
+    {
+      "name": "Jonathan Joestar",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Dio Brando",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Joseph Joestar",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Muhammad Avdol",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Noriaki Kakaoin",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Leone Abbacchio",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Guido Mista",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Pannacotta Fugo",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Giorno Giovanna",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Josuke Higashikata",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Okuyasu Nijimura",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Rohan Kishibe",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Josiah Jotaro",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Jotaro Kujo",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Jolyne Cujoh",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Emporio Alniño",
+      "anime": "Jojo's Bizarre Adventure"
+    },
+    {
+      "name": "Sakata Gintoki",
+      "anime": "Gintama"
+    },
+    {
+      "name": "Kagura",
+      "anime": "Gintama"
+    },
+    {
+      "name": "Shinpachi Shimura",
+      "anime": "Gintama"
+    },
+    {
+      "name": "Otose",
+      "anime": "Gintama"
+    },
+    {
+      "name": "Hijikata Toushiro",
+      "anime": "Gintama"
+    },
+    {
+      "name": "Okita Sougo",
+      "anime": "Gintama"
+    },
+    {
+      "name": "Kondo Isao",
+      "anime": "Gintama"
+    },
+    {
+      "name": "Toshiro Hijikata",
+      "anime": "Gintama"
+    },
+    {
+      "name": "Zeke Jaeger",
+      "anime": "Aot"
+    },
+    {
+      "name": "Ymir Fritz",
+      "anime": "Aot"
+    },
+    {
+      "name": "Paths",
+      "anime": "Aot"
+    },
+    {
+      "name": "Coordinate",
+      "anime": "Aot"
+    },
+    {
+      "name": "Founder Titan",
+      "anime": "Aot"
+    }
   ]
 }

@@ -67,10 +67,22 @@ class WikipediaScraper:
 
             details = {
                 'url': page_url,
+                'imageUrl': '',
                 'description': '',
                 'infobox': {},
                 'sections': []
             }
+
+            # Image URL from infobox
+            infobox = soup.find('table', class_='infobox')
+            if infobox:
+                img_tag = infobox.find('img')
+                if img_tag and img_tag.get('src'):
+                    image_url = img_tag.get('src')
+                    # Convert relative to absolute URL
+                    if image_url.startswith('/'):
+                        image_url = f"https://en.wikipedia.org{image_url}"
+                    details['imageUrl'] = image_url
 
             # Récupérer la description (premiers paragraphes)
             paragraphs = soup.find_all('p')

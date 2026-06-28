@@ -40,6 +40,7 @@ class AnimeCharacterScraper:
         result = {
             'name': character_name,
             'anime': anime_name,
+            'imageUrl': '',
             'sources': {},
             'knowledge_base': []
         }
@@ -55,6 +56,9 @@ class AnimeCharacterScraper:
                     result['knowledge_base'].extend(
                         self.mal_scraper.extract_facts(details)
                     )
+                    # Récupérer l'image si disponible
+                    if details.get('imageUrl') and not result['imageUrl']:
+                        result['imageUrl'] = details['imageUrl']
         except Exception as e:
             print(f"    {Fore.YELLOW}⚠️  MAL skip: {e}{Style.RESET_ALL}")
 
@@ -69,6 +73,9 @@ class AnimeCharacterScraper:
                     result['knowledge_base'].extend(
                         self.wiki_scraper.extract_facts(details)
                     )
+                    # Récupérer l'image si disponible
+                    if details.get('imageUrl') and not result['imageUrl']:
+                        result['imageUrl'] = details['imageUrl']
         except Exception as e:
             print(f"    {Fore.YELLOW}⚠️  Wiki skip: {e}{Style.RESET_ALL}")
 
@@ -85,6 +92,9 @@ class AnimeCharacterScraper:
                     result['knowledge_base'].extend(
                         self.fandom_scraper.extract_facts(details)
                     )
+                    # Récupérer l'image si disponible
+                    if details.get('imageUrl') and not result['imageUrl']:
+                        result['imageUrl'] = details['imageUrl']
         except Exception as e:
             print(f"    {Fore.YELLOW}⚠️  Fandom skip: {e}{Style.RESET_ALL}")
 

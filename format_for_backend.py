@@ -93,7 +93,7 @@ def generate_characters_file(characters: list) -> dict:
         character_obj = {
             'name': char.get('characterName', 'Unknown'),
             'anime': char.get('anime', 'Unknown'),
-            'imageUrl': None,  # À remplir ultérieurement avec scraping d'images
+            'imageUrl': char.get('imageUrl') or None,  # Récupéré du scraper
             'attributes': extract_attributes(char),
             'verified': True,
             'isCommunity': False
