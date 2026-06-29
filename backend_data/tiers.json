@@ -1,0 +1,28 @@
+{
+  "tiers": [
+    {
+      "tierNumber": 0,
+      "name": "Débutant",
+      "levelCount": 15,
+      "price": 0
+    },
+    {
+      "tierNumber": 1,
+      "name": "Guerrier du Feu",
+      "levelCount": 25,
+      "price": 50
+    },
+    {
+      "tierNumber": 2,
+      "name": "Pirate des Mers",
+      "levelCount": 25,
+      "price": 65
+    },
+    {
+      "tierNumber": 3,
+      "name": "Maître de la Foudre",
+      "levelCount": 25,
+      "price": 84
+    }
+  ]
+}

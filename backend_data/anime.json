@@ -1,0 +1,94 @@
+{
+  "anime": [
+    {
+      "title": "Naruto",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "One Piece",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Dragon Ball Z",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Bleach",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "My Hero Academia",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Demon Slayer",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Attack on Titan",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Fullmetal Alchemist",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Hunter x Hunter",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Code Geass",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Steins Gate",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Psycho-Pass",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Mob Psycho 100",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    },
+    {
+      "title": "Vinland Saga",
+      "genre": "Anime",
+      "year": 2024,
+      "imageUrl": null
+    }
+  ]
+}
