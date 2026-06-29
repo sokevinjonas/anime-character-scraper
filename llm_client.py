@@ -77,28 +77,28 @@ class BedrockClient(LLMClient):
             raise ImportError("boto3 package not installed. Run: pip install boto3")
 
     def generate_facts(self, character_name: str, anime_name: str, existing_facts: list) -> list:
-        """Generate 20 facts using AWS Bedrock."""
+        """Generate 14 facts using AWS Bedrock (in French)."""
         existing = "\n".join(f"- {fact}" for fact in existing_facts[:10])
 
-        prompt = f"""Generate exactly 20 unique, diverse facts about the character {character_name} from {anime_name}.
+        prompt = f"""Génère exactement 14 faits uniques et diversifiés sur le personnage {character_name} de l'anime {anime_name}.
 
-Existing facts (DO NOT repeat):
+Faits existants (NE PAS répéter):
 {existing}
 
-Generate NEW facts covering:
-- Appearance (hair, eyes, scars, clothes, etc.)
-- Personality traits
-- Powers/abilities
-- Relationships with other characters
-- Key story moments
-- Motivations and goals
-- Combat style
-- Weakness
-- Background/origin
-- Interesting trivia
+Génère de NOUVEAUX faits couvrant:
+- Apparence (cheveux, yeux, cicatrices, vêtements, etc.)
+- Traits de personnalité
+- Pouvoirs/capacités
+- Relations avec d'autres personnages
+- Moments clés de l'histoire
+- Motivations et objectifs
+- Style de combat
+- Faiblesses
+- Origine/passé
+- Anecdotes intéressantes
 
-Format: Return ONLY a JSON array of 20 strings, nothing else.
-Example: ["fact1", "fact2", ...]"""
+Format: Retourne UNIQUEMENT un tableau JSON de 14 chaînes de caractères en français, rien d'autre. Pas de texte avant ou après.
+["fait1", "fait2", ...]"""
 
         try:
             response = self.client.invoke_model(
@@ -119,8 +119,16 @@ Example: ["fact1", "fact2", ...]"""
 
             response_body = json.loads(response['body'].read())
             response_text = response_body['content'][0]['text'].strip()
-            facts = json.loads(response_text)
-            return facts[:20] if isinstance(facts, list) else existing_facts
+
+            # Extraire le JSON même si Claude ajoute du texte autour
+            start = response_text.find('[')
+            end = response_text.rfind(']') + 1
+            if start != -1 and end > start:
+                json_str = response_text[start:end]
+                facts = json.loads(json_str)
+                return facts[:14] if isinstance(facts, list) else existing_facts
+            else:
+                return existing_facts
 
         except Exception as e:
             print(f"{Fore.RED}Bedrock error: {e}{Style.RESET_ALL}")

@@ -123,8 +123,8 @@ class AnimeCharacterScraper:
             )
 
             if isinstance(facts, list) and len(facts) > 0:
-                character_data['knowledge_base'] = facts[:20]
-                print(f"{Fore.GREEN}✓ Generated 20 facts with {provider}{Style.RESET_ALL}")
+                character_data['knowledge_base'] = facts[:14]
+                print(f"{Fore.GREEN}✓ Generated {len(facts[:14])} facts with {provider}{Style.RESET_ALL}")
             else:
                 print(f"{Fore.YELLOW}⚠️  Invalid response from {provider}{Style.RESET_ALL}")
 
