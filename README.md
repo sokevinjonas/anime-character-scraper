@@ -79,6 +79,71 @@ Génère (dans `backend_data/`) :
 - ✅ `levels.json` - Niveaux avec knowledge base (20 faits)
 - ✅ `tiers.json` - Structure des paliers
 
+### 2️⃣b Corriger les Données
+
+Après le scraping, les données peuvent avoir des défauts. Utilise ces scripts de correction :
+
+#### Corriger les Genres Inversés
+
+Le scraper peut inverser les genres masculin/féminin. Corrige-les :
+
+```bash
+python3 fix_genders.py
+```
+
+**Ce que ça fait** :
+- ✅ Détecte les genres inversés (87% female = anormal)
+- ✅ Corrige les personnages connus (Naruto, Sakura, etc.)
+- ✅ Inverse les genres des 500+ personnages inconnus
+- ✅ Sauvegarde automatiquement
+
+**Exemple** :
+```
+✓ Naruto Uzumaki: female → male
+✓ Sakura Haruno: male → female
+✓ Fixed known characters: 24
+✓ Inverted 515 unknown characters
+```
+
+#### Corriger les URLs Malformées
+
+Les URLs Wikipedia peuvent être mal concaténées (`https://fr.wikipedia.org//upload.wikimedia.org/...`). Corrige-les :
+
+```bash
+python3 fix_urls.py
+```
+
+**Ce que ça fait** :
+- ✅ Supprime les double-slashes (`//` après le domaine)
+- ✅ Corrige les concaténations de domaine
+- ✅ Valide la structure des URLs
+- ✅ Supprime les URLs cassées
+
+**Exemple** :
+```
+✓ Fixed: https://fr.wikipedia.org//upload.wikimedia.org/... 
+         → https://upload.wikimedia.org/...
+✓ Fixed 56 URLs
+```
+
+#### Correction Automatique
+
+Après chaque run du scraper :
+
+```bash
+# 1. Format
+python3 format_for_backend.py knowledge-base.json
+
+# 2. Corriger les genres
+python3 fix_genders.py
+
+# 3. Corriger les URLs
+python3 fix_urls.py
+
+# 4. Copier au backend
+cp backend_data/*.json ../anime-duel-api/data/
+```
+
 ### 3️⃣ Importer dans le Backend
 
 ```bash
@@ -97,6 +162,8 @@ anime-character-scraper/
 ├── scraper.py              # Script principal (retry + resume + progressive save)
 ├── llm_client.py           # Abstraction LLM (Anthropic API ou AWS Bedrock)
 ├── format_for_backend.py   # Convertir en format backend
+├── fix_genders.py          # ✨ Corriger les genres inversés
+├── fix_urls.py             # ✨ Corriger les URLs malformées
 ├── requirements.txt        # Dépendances Python
 ├── .env                    # Config AWS Bedrock ou Anthropic
 ├── scraper_errors.log      # Généré - logs des erreurs

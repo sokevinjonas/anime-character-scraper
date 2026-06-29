@@ -3,9 +3,9 @@
     {
       "name": "Naruto Uzumaki",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cosplay_of_Naruto_Uzumaki_from_Naruto_Shippuden_at_AniManGaki_2014%2C_Day_2_029_%2820140810%29.jpg/330px-Cosplay_of_Naruto_Uzumaki_from_Naruto_Shippuden_at_AniManGaki_2014%2C_Day_2_029_%2820140810%29.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cosplay_of_Naruto_Uzumaki_from_Naruto_Shippuden_at_AniManGaki_2014%2C_Day_2_029_%2820140810%29.jpg/330px-Cosplay_of_Naruto_Uzumaki_from_Naruto_Shippuden_at_AniManGaki_2014%2C_Day_2_029_%2820140810%29.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Naruto utilise principalement le Rasengan, une technique de boule d'énergie spir",
@@ -24,9 +24,9 @@
     {
       "name": "Sasuke Uchiha",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sasuke_Uchiha_cosplayer_at_2010_NCCBF_2010-04-18_1.JPG/330px-Sasuke_Uchiha_cosplayer_at_2010_NCCBF_2010-04-18_1.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sasuke_Uchiha_cosplayer_at_2010_NCCBF_2010-04-18_1.JPG/330px-Sasuke_Uchiha_cosplayer_at_2010_NCCBF_2010-04-18_1.JPG",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sasuke est un génie tactique et un perfectionniste obsédé par le pouvoir, cherch",
@@ -46,7 +46,7 @@
     {
       "name": "Sakura Haruno",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/6/60/ICDS_cosplayer_of_Sakura_Haruno%2C_Naruto_20150822a.jpg/250px-ICDS_cosplayer_of_Sakura_Haruno%2C_Naruto_20150822a.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ICDS_cosplayer_of_Sakura_Haruno%2C_Naruto_20150822a.jpg/250px-ICDS_cosplayer_of_Sakura_Haruno%2C_Naruto_20150822a.jpg",
       "attributes": {
         "gender": "female",
         "role": "protagonist",
@@ -67,7 +67,7 @@
     {
       "name": "Kakashi Hatake",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cosplay_de_Kakashi_Hatake.JPG/250px-Cosplay_de_Kakashi_Hatake.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cosplay_de_Kakashi_Hatake.JPG/250px-Cosplay_de_Kakashi_Hatake.JPG",
       "attributes": {
         "gender": "male",
         "role": "protagonist",
@@ -87,9 +87,9 @@
     {
       "name": "Itachi Uchiha",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cosplay_d%27Itachi_Uchiwa_%40aanthonym.jpg/250px-Cosplay_d%27Itachi_Uchiwa_%40aanthonym.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cosplay_d%27Itachi_Uchiwa_%40aanthonym.jpg/250px-Cosplay_d%27Itachi_Uchiwa_%40aanthonym.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -106,7 +106,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède le Mangekyo Sharingan et peut activer le Susanoo, une technique de dé",
@@ -127,7 +127,7 @@
     {
       "name": "Hinata Hyuga",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cosplayer_of_Hinata_Hyuga_at_CWT39_20150228a.jpg/250px-Cosplayer_of_Hinata_Hyuga_at_CWT39_20150228a.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cosplayer_of_Hinata_Hyuga_at_CWT39_20150228a.jpg/250px-Cosplayer_of_Hinata_Hyuga_at_CWT39_20150228a.jpg",
       "attributes": {
         "gender": "female",
         "role": "protagonist",
@@ -149,9 +149,9 @@
     {
       "name": "Shikamaru Nara",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Cosplay_de_Shikamaru_Nara.JPG/330px-Cosplay_de_Shikamaru_Nara.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Cosplay_de_Shikamaru_Nara.JPG/330px-Cosplay_de_Shikamaru_Nara.JPG",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son jutsu signature est le Kagemane no Jutsu (Technique de l'Ombre), qui lui per"
@@ -168,9 +168,9 @@
     {
       "name": "Jiraiya",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg/250px-Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg/250px-Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a servi de mentor à Naruto Uzumaki après la mort de Kakashi Hatake, l'aidant ",
@@ -190,7 +190,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Orochimaru porte généralement un long manteau blanc immaculé avec des motifs de ",
@@ -211,7 +211,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Pain possède six corps distincts appelés les Six Chemins de Pain, chacun ayant d",
@@ -252,7 +252,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Deidara possède des cheveux blonds longs attachés en une queue de cheval, avec d",
@@ -271,9 +271,9 @@
     {
       "name": "Kisame Hoshigaki",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kisame_Hoshigaki_cosplayer_at_FanimeCon_2010-05-30_2.JPG/250px-Kisame_Hoshigaki_cosplayer_at_FanimeCon_2010-05-30_2.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kisame_Hoshigaki_cosplayer_at_FanimeCon_2010-05-30_2.JPG/250px-Kisame_Hoshigaki_cosplayer_at_FanimeCon_2010-05-30_2.JPG",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède une affinité naturelle avec l'eau et peut créer des environnements aq",
@@ -291,9 +291,9 @@
     {
       "name": "Zetsu",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Zetsu a participé à l'expérience de transplantation de cellules de Senju sur Mad",
@@ -311,9 +311,9 @@
     {
       "name": "Hidan",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hidan_cosplayer_at_FanimeCon_2010-05-29_1.JPG/330px-Hidan_cosplayer_at_FanimeCon_2010-05-29_1.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hidan_cosplayer_at_FanimeCon_2010-05-29_1.JPG/330px-Hidan_cosplayer_at_FanimeCon_2010-05-29_1.JPG",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Hidan est techniquement immortel grâce à ses pouvoirs religieux, nécessitant une",
@@ -331,9 +331,9 @@
     {
       "name": "Kakuzu",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son technique de combat principal implique de contrôler les cinq éléments (eau, ",
@@ -354,7 +354,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sa plus grande faiblesse est son cœur original, qu'il a conservé dans son corps "
@@ -373,7 +373,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Obito maîtrise le Mangekyo Sharingan, un pouvoir oculaire rare qui lui permet d'",
@@ -395,7 +395,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il utilise le Rinnegan pour contrôler les Six Chemins de la Douleur, six corps d",
@@ -413,9 +413,9 @@
     {
       "name": "Minato Namikaze",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/AMG14_cosplayer_of_Minato_Namikaze_from_Naruto_20140809.jpg/250px-AMG14_cosplayer_of_Minato_Namikaze_from_Naruto_20140809.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/AMG14_cosplayer_of_Minato_Namikaze_from_Naruto_20140809.jpg/250px-AMG14_cosplayer_of_Minato_Namikaze_from_Naruto_20140809.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Minato maîtrise le Hiraishin no Jutsu (Technique de Téléportation), un jutsu de ",
@@ -458,7 +458,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrisait le Mangekyo Sharingan, l'une des formes les plus puissantes du Sha",
@@ -498,7 +498,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a été artificiellement implanté avec des cellules d'Hashirama Senju enfant pa"
@@ -517,7 +517,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -532,7 +532,7 @@
     {
       "name": "Ino Yamanaka",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
       "attributes": {
         "gender": "female",
         "role": "protagonist",
@@ -554,7 +554,7 @@
     {
       "name": "Choji Akimichi",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Choji_Akimichi_cosplayer_at_FanimeCon_2010-05-29.JPG/330px-Choji_Akimichi_cosplayer_at_FanimeCon_2010-05-29.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Choji_Akimichi_cosplayer_at_FanimeCon_2010-05-29.JPG/330px-Choji_Akimichi_cosplayer_at_FanimeCon_2010-05-29.JPG",
       "attributes": {
         "gender": "male",
         "role": "protagonist",
@@ -576,9 +576,9 @@
     {
       "name": "Rock Lee",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cosplayer_of_Rock_Lee%2C_Naruto_at_CWT40_20150809.jpg/250px-Cosplayer_of_Rock_Lee%2C_Naruto_at_CWT40_20150809.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cosplayer_of_Rock_Lee%2C_Naruto_at_CWT40_20150809.jpg/250px-Cosplayer_of_Rock_Lee%2C_Naruto_at_CWT40_20150809.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Malgré l'absence de capacités de chakra naturelles, il maîtrise les Huit Portes "
@@ -595,9 +595,9 @@
     {
       "name": "Neji Hyuga",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Neji utilise la technique du Rotation (Kaiten), une défense absolue qui crée une"
@@ -616,7 +616,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle utilise des techniques de taijutsu et de ninjutsu basées sur les armes, con"
@@ -633,9 +633,9 @@
     {
       "name": "Tsunade",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -650,7 +650,7 @@
     {
       "name": "Jiraiya",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg/250px-Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg/250px-Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg",
       "attributes": {
         "gender": "male",
         "role": "protagonist",
@@ -695,7 +695,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il possède la technique du Sablonnage (Sunayaki), lui permettant de créer et con",
@@ -713,9 +713,9 @@
     {
       "name": "Asuma Sarutobi",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gen_Con_Indy_2008_-_costumes_66.JPG/250px-Gen_Con_Indy_2008_-_costumes_66.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gen_Con_Indy_2008_-_costumes_66.JPG/250px-Gen_Con_Indy_2008_-_costumes_66.JPG",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -730,9 +730,9 @@
     {
       "name": "Kurenai Yuhi",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cosplay_de_Kurena%C3%AF_Y%C3%BBhi.JPG/250px-Cosplay_de_Kurena%C3%AF_Y%C3%BBhi.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cosplay_de_Kurena%C3%AF_Y%C3%BBhi.JPG/250px-Cosplay_de_Kurena%C3%AF_Y%C3%BBhi.JPG",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle est spécialisée dans les techniques de genjutsu (illusions), ce qui en fait",
@@ -752,7 +752,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Gai possède une faiblesse majeure : ses cheveux épais lui font redouter certaine",
@@ -772,7 +772,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Raidou maîtrise le jutsu de Paralysie Sensorielle, une technique très efficace p",
@@ -793,7 +793,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son style de combat se distingue par l'utilisation de techniques de taijutsu pré"
@@ -812,7 +812,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Malgré son apparence maladroite, Ebisu maîtrise le Sexy Technique (Henge) et l'u",
@@ -834,7 +834,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Iruka maîtrise les jutsu d'invocation des documents et possède une expertise en ",
@@ -855,7 +855,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Anko excelle dans l'utilisation de techniques de transformation et de clonage, a",
@@ -875,7 +875,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Lors de l'attaque de Konoha par Pain, Shizune a combattu pour protéger le villag",
@@ -896,7 +896,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Shikaku a joué un rôle crucial dans la coordination des tactiques de défense lor"
@@ -915,7 +915,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise le jutsu de contrôle des ombres (Kage Mane no Jutsu), la technique"
@@ -934,7 +934,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Choza maîtrise la technique du Clan Akimichi qui lui permet d'augmenter considér",
@@ -954,7 +954,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "La mère de Choji maîtrise les techniques de multiplication cellulaire du clan Ak",
@@ -975,7 +975,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il pratique le style de combat Jyuken (Gentle Fist), une technique exclusive au ",
@@ -996,7 +996,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il utilisait les techniques de combat des Hyuga basées sur le Taijutsu et les po",
@@ -1016,7 +1016,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle est spécialisée dans le style de combat du clan Hyuga, basé sur les frappes",
@@ -1037,7 +1037,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Boruto est un prodige ninja capable de maîtriser rapidement plusieurs techniques",
@@ -1058,7 +1058,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise le Ninjutsu du Serpent et peut transformer son corps en serpent pour",
@@ -1078,7 +1078,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise le Chidori, une technique de foudre du clan Uchiha enseignée par s",
@@ -1100,7 +1100,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il est un maître du ninjutsu d'ombre et utilise des techniques de déplacement ex",
@@ -1125,7 +1125,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle utilise le Kugutsu no Jutsu (technique de marionnettes) avec maîtrise, créa",
@@ -1145,7 +1145,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Hanzo maîtrise l'utilisation de poison et de techniques basées sur les venins, c",
@@ -1165,7 +1165,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -1180,9 +1180,9 @@
     {
       "name": "Gaara",
       "anime": "Naruto",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cosplay_gaara_et_Kankur%C3%B4.JPG/250px-Cosplay_gaara_et_Kankur%C3%B4.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cosplay_gaara_et_Kankur%C3%B4.JPG/250px-Cosplay_gaara_et_Kankur%C3%B4.JPG",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son tatouage 'Amour' (愛) sur son front gauche symbolise son isolement initial et",
@@ -1204,7 +1204,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Sa marionnette la plus célèbre est Karasu, une création sophistiquée capable de "
@@ -1223,7 +1223,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est le Rasengan, une technique de manipulation du chakra e",
@@ -1243,7 +1243,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat repose sur l'utilisation stratégique de marionnettes armées "
@@ -1262,7 +1262,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -1279,7 +1279,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Fugaku maîtrisait le Mangekyou Sharingan, un niveau avancé du Sharingan qui lui ",
@@ -1321,7 +1321,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Shikaku maîtrise le Jutsu de l'Ombre (Kage Mane no Jutsu), technique signature d",
@@ -1343,7 +1343,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise le jutsu d'ombre du clan Nara, une technique de ninjutsu permettan"
@@ -1362,7 +1362,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Choza maîtrise la technique Expansion du Corps, qui lui permet d'augmenter consi",
@@ -1383,7 +1383,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise parfaitement les techniques de multiplication des cellules du clan A",
@@ -1404,7 +1404,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Hiashi maîtrise le Jyuken, une technique de combat au corps à corps qui canalise"
@@ -1423,7 +1423,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il pratiquait le Gentle Fist (Poing Doux), la technique signature du clan Hyuga "
@@ -1442,7 +1442,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Le sceau maudit qui l'affligeait l'empêchait d'utiliser pleinement ses pouvoirs "
@@ -1461,7 +1461,7 @@
       "anime": "Naruto",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Après son enlèvement, Hanabi a subi des expériences scientifiques qui ont modifi",
@@ -1482,7 +1482,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Conqueror Haki (Haoshoku Haki) rare lui permet de dominer les volontés des a",
@@ -1504,7 +1504,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il manie trois sabres simultanément en utilisant une technique appelée Santoryu ",
@@ -1525,7 +1525,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle emploie des techniques climatiques avancées comme le Tempo de Chaleur et le",
@@ -1545,7 +1545,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Usopp a développé le pouvoir de la Graine de Sorcière (Pop Green) après l'arc de",
@@ -1565,7 +1565,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sanji maîtrise le Haki d'Observation et de Conquête, transformant progressivemen"
@@ -1584,7 +1584,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise la Rumble Ball, une boule spéciale qui décuple temporairement ses po",
@@ -1605,7 +1605,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Robin possède le pouvoir de la Fleur-Fleur (Hana Hana no Mi), lui permettant de ",
@@ -1626,7 +1626,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -1643,7 +1643,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat combine l'escrime avec sa canne-épée et l'utilisation de tec",
@@ -1663,7 +1663,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède la capacité de créer des attaques tranchantes à distance en utilisant"
@@ -1682,7 +1682,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est le Fruit du Démembrement qui lui permet de séparer son",
@@ -1702,7 +1702,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il maîtrise les techniques de combat aquatique et peut manipuler l'eau pour crée"
@@ -1721,7 +1721,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a le pouvoir de la Sable Sable no Mi, un fruit du démon de type Logia qui lui",
@@ -1742,7 +1742,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Fruit du Démon, le Filo Filo no Mi, lui permet de créer et manipuler des fil",
@@ -1763,7 +1763,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Les pouvoirs de répulsion de Kuma lui permettent de combattre à distance en repo"
@@ -1782,7 +1782,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Boa Hancock possède de longs cheveux noirs ondulés et des yeux en forme de cœur "
@@ -1801,7 +1801,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "En combat, Law utilise des techniques chirurgicales mortelles comme SHAMBLES, TA"
@@ -1820,7 +1820,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Kid possède le pouvoir du Fruit du Magnétisme (Jiki Jiki no Mi), lui permettant ",
@@ -1840,7 +1840,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "X Drake utilise des techniques de combat combinant son arme blanche avec les pou"
@@ -1859,7 +1859,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -1876,7 +1876,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est la Gura Gura no Mi (Fruit du Tremor modifié en réalité",
@@ -1897,7 +1897,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Urouge utilise principalement des techniques de combat physique brutes, basées s",
@@ -1917,7 +1917,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal, le Wara Wara no Mi, lui permet de créer et de contrôler d",
@@ -1937,7 +1937,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son style de combat repose principalement sur les attaques à distance utilisant ",
@@ -1957,7 +1957,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Killer utilise une technique de combat acrobatique impliquant des rotations rapi",
@@ -1977,7 +1977,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise le pouvoir de la Mera Mera no Mi, un fruit du démon qui lui permet d",
@@ -1998,7 +1998,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sabo a le pouvoir de manger le fruit du démon Flame-Flame (Mera Mera no Mi), lui",
@@ -2019,7 +2019,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Dragon possède le pouvoir de contrôler le temps et les phénomènes météorologique",
@@ -2039,7 +2039,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise le Haki Armement et le Haki d'Observation à des niveaux très avancés",
@@ -2059,7 +2059,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -2076,7 +2076,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Aokiji a le pouvoir du fruit du démon Hie Hie no Mi, lui permettant de créer et ",
@@ -2097,7 +2097,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir lui permet de transformer son corps en énergie lumineuse et de proje",
@@ -2117,7 +2117,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie les attaques offensives massives et la destructio",
@@ -2138,7 +2138,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il possède le pouvoir du Fruit de l'Attraction (Zushi Zushi no Mi) qui lui perme",
@@ -2158,7 +2158,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Ryokugyu a le pouvoir de contrôler et manipuler la végétation à grande échelle g",
@@ -2179,7 +2179,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -2196,7 +2196,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -2213,7 +2213,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise la technique de combat rapproché Rokushiki, notamment le Soru qui lu"
@@ -2232,7 +2232,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Sa faiblesse majeure réside dans son inexpérience au combat et son manque de pou"
@@ -2251,7 +2251,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Alvida est obsédée par l'accumulation de richesses et de butins provenant de ses",
@@ -2271,7 +2271,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -2288,7 +2288,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est la capacité à créer des sabres d'énergie tranchante gr",
@@ -2308,7 +2308,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Leo maîtrise la technique du Tontatta Golem, lui permettant de donner vie à des ",
@@ -2328,7 +2328,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -2345,7 +2345,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est la capacité à augmenter considérablement sa force phys",
@@ -2365,7 +2365,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède une technique de combat appelée Hakoku qui utilise toute la puissance"
@@ -2384,7 +2384,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son pouvoir lui permet de contrôler des constructions entières et de se déplacer",
@@ -2404,7 +2404,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Viola maîtrise le pouvoir du Fruit du Démon de type Paramecia appelé Giro Giro n",
@@ -2425,7 +2425,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède le pouvoir de devenir invisible grâce à son fruit du démon de type ",
@@ -2445,7 +2445,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède une force physique remarquable et combat avec une grande maîtrise au ",
@@ -2465,7 +2465,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -2482,7 +2482,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir de dragon lui permet de voler et de créer des flammes, mais il manqu"
@@ -2501,7 +2501,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise le style de combat 'Kitsunebi Ryu' (École du Feu du Renard), utilisa"
@@ -2520,7 +2520,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il est le co-seigneur du Duché du Crépuscule sur l'île de Zou, partageant le pou",
@@ -2540,7 +2540,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat se base sur des techniques de sabrage au sabre avec une gran"
@@ -2559,7 +2559,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Les Mink femelles comme Carrot et Wanda peuvent maîtriser des techniques comme l",
@@ -2580,7 +2580,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise la transformation Sulong, un pouvoir mink déverrouillé sous la lum",
@@ -2601,7 +2601,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise des techniques de combat traditionnelles des minks combinant force",
@@ -2621,7 +2621,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède une grande force physique naturelle amplifiée par sa nature d'homme-a",
@@ -2642,7 +2642,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Tamago possède le pouvoir de se transformer en œuf géant en se contractant, ce q",
@@ -2664,7 +2664,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Tamago peut utiliser le pouvoir Tama Tama no Mi qui lui permet de transformer so",
@@ -2684,7 +2684,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son principal point faible réside dans son manque de pouvoirs surhumains comparé"
@@ -2703,7 +2703,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie la précision et la technique plutôt que la force "
@@ -2722,7 +2722,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Orochi possède le pouvoir de la transformation via le Fruit du Démon Hebi Hebi, ",
@@ -2743,7 +2743,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle a des yeux bleus glaciaux qui changent d'intensité selon son niveau d'utili",
@@ -2763,7 +2763,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -2780,7 +2780,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Les modifications génétiques des Vinsmoke leur confèrent des pouvoirs élémentair"
@@ -2799,7 +2799,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Big Mom a mangé le Fruit du Pouvoir Âme (Soul Soul Fruit) qui lui permet de crée",
@@ -2820,7 +2820,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède l'Armement Haoshoku, un pouvoir rare de Conquérant qui lui permet de ",
@@ -2840,7 +2840,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -2855,9 +2855,9 @@
     {
       "name": "Blackbeard",
       "anime": "One Piece",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Teach_alias_Blackbeard%2C_colored.jpg/250px-Teach_alias_Blackbeard%2C_colored.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Teach_alias_Blackbeard%2C_colored.jpg/250px-Teach_alias_Blackbeard%2C_colored.jpg",
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son fruit du démon Yami Yami no Mi lui permet d'absorber et d'annuler les pouvoi",
@@ -2879,7 +2879,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Luffy possède le pouvoir de la Fruit du Caoutchouc qui lui permet d'étirer son c",
@@ -2899,7 +2899,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son technique de combat principale est le Gear Second, qui accélère son métaboli"
@@ -2918,7 +2918,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -2935,7 +2935,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie la force brute et l'utilisation de techniques de "
@@ -2954,7 +2954,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son style de combat repose sur l'agilité et les attaques de feu rapides, utilisa",
@@ -2975,7 +2975,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise le style de combat du Poing du Dragon, utilisant des techniques de c"
@@ -2994,7 +2994,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -3011,7 +3011,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -3028,7 +3028,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son surnom est 'Sengoku le Bouddha' en raison de son pouvoir de transformation i"
@@ -3047,7 +3047,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Smoker est un combattant très expérimenté capable de maîtriser simultanément plu",
@@ -3068,7 +3068,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Coby maîtrise la technique de combat rapproché appelée Rokushiki, particulièreme"
@@ -3087,7 +3087,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Helmeppo est le fils du capitaine Morgan, un officier de la Marine qui a abusé d",
@@ -3107,7 +3107,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Alvida n'a pas mangé de fruit du démon et repose entièrement sur ses techniques ",
@@ -3127,7 +3127,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il utilise des ciseaux géants comme arme principale, capable de les faire tourne",
@@ -3149,7 +3149,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Malgré son apparence douce, Nojiko possède une grande force physique et peut com",
@@ -3171,7 +3171,7 @@
       "anime": "One Piece",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son principal pouvoir réside dans son endurance physique exceptionnelle et sa ca",
@@ -3190,9 +3190,9 @@
     {
       "name": "Goku",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_19.jpg/960px-Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_19.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_19.jpg/960px-Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_19.jpg",
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il maîtrise la technique du Kamé Hamé Ha, un puissant rayon d'énergie bleue tiré",
@@ -3212,9 +3212,9 @@
     {
       "name": "Vegeta",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bushwick_Brooklyn_Art_450.jpg/330px-Bushwick_Brooklyn_Art_450.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bushwick_Brooklyn_Art_450.jpg/330px-Bushwick_Brooklyn_Art_450.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise l'attaque Galick Gun et la technique Final Flash, considérées comme ",
@@ -3236,7 +3236,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sa principale motivation est de protéger ses proches plutôt que de rechercher la",
@@ -3254,9 +3254,9 @@
     {
       "name": "Goten",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Goten fusionne avec Trunks via la technique de fusion Potaraishi pour créer Gote",
@@ -3274,9 +3274,9 @@
     {
       "name": "Trunks",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_14.jpg/330px-Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_14.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_14.jpg/330px-Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_14.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Trunks maîtrise la technique de la Transformation Super Sayen dès son plus jeune",
@@ -3294,9 +3294,9 @@
     {
       "name": "Frieza",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Frieza_2015_Calgary_Expo_%E2%80%93_Calgary_Comic_%26_Entertainment_Expo_%2817219168691%29.jpg/330px-Frieza_2015_Calgary_Expo_%E2%80%93_Calgary_Comic_%26_Entertainment_Expo_%2817219168691%29.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Frieza_2015_Calgary_Expo_%E2%80%93_Calgary_Comic_%26_Entertainment_Expo_%2817219168691%29.jpg/330px-Frieza_2015_Calgary_Expo_%E2%80%93_Calgary_Comic_%26_Entertainment_Expo_%2817219168691%29.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Frieza possède une queue rose distinctive et des cornes recourbées, ainsi qu'une",
@@ -3317,7 +3317,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Cell maîtrise des techniques de tous les guerriers dont il possède les cellules,",
@@ -3336,9 +3336,9 @@
     {
       "name": "Majin Buu",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cosplay_of_Majin_Buu_at_GEMA_2022.jpg/330px-Cosplay_of_Majin_Buu_at_GEMA_2022.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cosplay_of_Majin_Buu_at_GEMA_2022.jpg/330px-Cosplay_of_Majin_Buu_at_GEMA_2022.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il peut absorber d'autres êtres vivants dans son corps et acquérir leurs pouvoir",
@@ -3356,9 +3356,9 @@
     {
       "name": "Krillin",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kuririn_Preocupado.PNG/330px-Kuririn_Preocupado.PNG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kuririn_Preocupado.PNG/330px-Kuririn_Preocupado.PNG",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a développé la Technique du Kaméhaméha en imitant Maître Roshi, ce qui en fai",
@@ -3379,7 +3379,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "La fusion avec Kami lui permet d'obtenir un pouvoir considérablement accru, deve",
@@ -3401,7 +3401,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il maîtrise la technique du Kamehameha qu'il a apprise de Gokuu, et peut l'utili",
@@ -3422,7 +3422,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il est l'un des rares humains à maîtriser les techniques martiales sans être un ",
@@ -3445,7 +3445,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Chiaotzu a le pouvoir de la télépathie et peut communiquer mentalement avec ses ",
@@ -3464,9 +3464,9 @@
     {
       "name": "Master Roshi",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cosplayer_of_Kame_Sennin%2C_Dragon_Ball_at_Animethon_20160806.jpg/330px-Cosplayer_of_Kame_Sennin%2C_Dragon_Ball_at_Animethon_20160806.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cosplayer_of_Kame_Sennin%2C_Dragon_Ball_at_Animethon_20160806.jpg/330px-Cosplayer_of_Kame_Sennin%2C_Dragon_Ball_at_Animethon_20160806.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a inventé la technique du Kamehameha, l'une des attaques les plus puissantes ",
@@ -3484,9 +3484,9 @@
     {
       "name": "Bulma",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bulma_cosplay_crop.jpg/330px-Bulma_cosplay_crop.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bulma_cosplay_crop.jpg/330px-Bulma_cosplay_crop.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Bulma n'a aucun pouvoir martial ou de combat, ce qui en fait l'une des rares hér"
@@ -3505,7 +3505,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son attaque signature est la capacité à frapper avec une force considérable, cap"
@@ -3522,9 +3522,9 @@
     {
       "name": "Future Trunks",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_14.jpg/330px-Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_14.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_14.jpg/330px-Mural_de_Dragon_Ball_Z_en_una_calle_de_Aguascalientes_14.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise la technique du Galick Gun, héritage du pouvoir de son père Vegeta",
@@ -3544,7 +3544,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sa technique signature est la Masenko, un puissant rayon d'énergie qu'il tire de",
@@ -3562,9 +3562,9 @@
     {
       "name": "Android 18",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_18_dragon_ball_Z.jpg/330px-C_18_dragon_ball_Z.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_18_dragon_ball_Z.jpg/330px-C_18_dragon_ball_Z.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède la capacité de générer des attaques énergétiques appelées 'Destruct",
@@ -3583,9 +3583,9 @@
     {
       "name": "Android 17",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cosplay_of_Android_17_and_Android_18_from_Dragon_Ball_at_Brussels_Comic_Con_2019_%2840510912663%29.jpg/330px-Cosplay_of_Android_17_and_Android_18_from_Dragon_Ball_at_Brussels_Comic_Con_2019_%2840510912663%29.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cosplay_of_Android_17_and_Android_18_from_Dragon_Ball_at_Brussels_Comic_Con_2019_%2840510912663%29.jpg/330px-Cosplay_of_Android_17_and_Android_18_from_Dragon_Ball_at_Brussels_Comic_Con_2019_%2840510912663%29.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir spécial signature est le 'Barrière énergétique', un dôme protecteur ",
@@ -3603,9 +3603,9 @@
     {
       "name": "Android 16",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_16_Developer_Preview_Logo.svg/langfr-120px-Android_16_Developer_Preview_Logo.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_16_Developer_Preview_Logo.svg/langfr-120px-Android_16_Developer_Preview_Logo.svg.png",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie la puissance brute et les attaques directes plutô"
@@ -3624,7 +3624,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Android 19 est capable d'absorber l'énergie ki de ses adversaires à travers les ",
@@ -3644,7 +3644,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Android 20 peut absorber l'énergie vitale d'autres êtres à travers une technique",
@@ -3664,7 +3664,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -3681,7 +3681,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Babidi possède des yeux rouges intenses qui brillent quand il utilise ses pouvoi",
@@ -3701,7 +3701,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir de crachat magique transforme instantanément toute créature en pierr",
@@ -3723,7 +3723,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède le pouvoir de Potara, des boucles d'oreilles magiques qui permettent ",
@@ -3745,7 +3745,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il possède le pouvoir de créer des planètes et de détruire des mondes entiers d'",
@@ -3766,7 +3766,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède le pouvoir de débloquer le potentiel latent d'un guerrier à travers u",
@@ -3789,7 +3789,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kibito peut se téléporter instantanément en utilisant la technique de transport "
@@ -3808,7 +3808,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède la capacité de détécter les niveaux de puissance de tous les êtres vi",
@@ -3830,7 +3830,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kami est capable de créer des clones de lui-même pour accomplir plusieurs tâches",
@@ -3850,7 +3850,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il enseigne des techniques de méditation et de contrôle du ki à Goku lors de l'e",
@@ -3870,7 +3870,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Garlic Jr utilise des techniques de magie noire et de sorcellerie, ce qui le dis",
@@ -3891,7 +3891,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il possède l'ability de transformer les astéroïdes en armes et de contrôler l'en",
@@ -3912,7 +3912,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il utilise un style de combat brutal et impitoyable, privilégiant la force brute",
@@ -3932,9 +3932,9 @@
     {
       "name": "Broly",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Broly_cosplayer_%2843554188642%29.jpg/330px-Broly_cosplayer_%2843554188642%29.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Broly_cosplayer_%2843554188642%29.jpg/330px-Broly_cosplayer_%2843554188642%29.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Broly maîtrise l'attaque Eraser Canon, un rayon d'énergie dévastateur qui peut r",
@@ -3954,7 +3954,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Janemba porte une armure noire et dorée ornementale qui amplifie ses pouvoirs su",
@@ -3976,7 +3976,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Janemba a des yeux rouges brillants qui luisent d'une énergie maléfique lorsqu'i",
@@ -3996,9 +3996,9 @@
     {
       "name": "Kid Buu",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cosplay_of_Majin_Buu_at_GEMA_2022.jpg/330px-Cosplay_of_Majin_Buu_at_GEMA_2022.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cosplay_of_Majin_Buu_at_GEMA_2022.jpg/330px-Cosplay_of_Majin_Buu_at_GEMA_2022.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a anéanti la population entière de la Terre en une seule attaque énergétique "
@@ -4017,7 +4017,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie la brute force et les attaques dévastatrices plut",
@@ -4038,7 +4038,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Good Buu est extrêmement naïf et innocent, se comportant comme un enfant malgré ",
@@ -4058,9 +4058,9 @@
     {
       "name": "Super Buu",
       "anime": "Dragon Ball Z",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cosplay_of_Majin_Buu_at_GEMA_2022.jpg/330px-Cosplay_of_Majin_Buu_at_GEMA_2022.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cosplay_of_Majin_Buu_at_GEMA_2022.jpg/330px-Cosplay_of_Majin_Buu_at_GEMA_2022.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a la capacité unique d'absorber d'autres êtres vivants pour augmenter sa puis",
@@ -4082,7 +4082,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "West Kai maîtrise des techniques magiques et des pouvoirs surhumains considérés ",
@@ -4102,7 +4102,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise la technique du Kaio-ken, qu'il enseigne personnellement à Goku pend"
@@ -4121,7 +4121,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède des pouvoirs cosmiques illimités typiques des divinités Kaïos, inclua",
@@ -4142,7 +4142,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise le Kaio-ken, une technique qui augmente considérablement la puissanc",
@@ -4163,7 +4163,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède le pouvoir de créer des portails temporels et de se téléporter instan",
@@ -4183,7 +4183,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Beerus peut utiliser le Hakai, un pouvoir ultime qui détruit complètement l'âme ",
@@ -4203,7 +4203,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Whis est l'ange attendant du Dieu de la Destruction Beerus et possède des pouvoi",
@@ -4223,7 +4223,7 @@
       "anime": "Dragon Ball Z",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a le pouvoir de créer et de détruire les mondes, ainsi que de manipuler l'éne",
@@ -4244,9 +4244,9 @@
     {
       "name": "Ichigo Kurosaki",
       "anime": "Bleach",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/2/23/ICHIGO_KUROSAKI_COSPLAY.jpg/330px-ICHIGO_KUROSAKI_COSPLAY.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ICHIGO_KUROSAKI_COSPLAY.jpg/330px-ICHIGO_KUROSAKI_COSPLAY.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Ichigo est un Substitute Shinigami qui a reçu ses pouvoirs de Rukia Kuchiki aprè",
@@ -4266,7 +4266,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède l'ability de Kidō avancée, démontrant une grande compétence en magi",
@@ -4287,7 +4287,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Aizen possède des cheveux châtain clair et des yeux dorés caractéristiques, avec",
@@ -4307,7 +4307,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie l'élégance et la précision, utilisant ses pouvoir",
@@ -4328,7 +4328,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie la force brute combinée à la technique, utilisant"
@@ -4347,7 +4347,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Ses pouvoirs spéciaux sont les Shun Shun Rikka, des épingles à cheveux spirituel",
@@ -4369,7 +4369,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son technique spéciale 'Blut Vene' lui permet de durcir son corps en canalisant "
@@ -4388,7 +4388,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Urahara maîtrise la Kidō (magie spirituelle) à un niveau exceptionnellement élev"
@@ -4407,7 +4407,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise le Shunko, une technique rare combinant le Kidō et les arts martia",
@@ -4427,7 +4427,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -4444,7 +4444,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle peut utiliser des techniques de combat à mains nues également efficaces que"
@@ -4463,7 +4463,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Zanpakuto s'appelle Katen Kyokotsu et possède un pouvoir basé sur les jeux, ",
@@ -4483,7 +4483,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Zanpakuto Sogyo no Kotowari peut se diviser en deux sabres jumeaux et possèd",
@@ -4504,7 +4504,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Soi Fon maîtrise l'art du Hoho (technique de mouvement ultrarapide) mieux que qu",
@@ -4526,7 +4526,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède le pouvoir Bankai appelé Kamishini no Yari, une technique d'extension"
@@ -4545,7 +4545,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Zanpakutou s'appelle Suzumebachi et possède deux formes de libération : Shik",
@@ -4565,7 +4565,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Hitsugaya utilise une technique de combat basée sur la défense stratégique plutô"
@@ -4584,7 +4584,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Bankai ne s'éveille que tardivement dans la série, montrant une progression "
@@ -4603,7 +4603,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Pendant l'arc de l'Invasion Hueco Mundo, Yumichika doit accepter la véritable na"
@@ -4622,7 +4622,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -4639,7 +4639,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Isane utilise principalement des techniques de combat défensives plutôt qu'offen",
@@ -4659,7 +4659,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -4676,7 +4676,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Momo maîtrise plusieurs techniques de Kidō (magie spirituelle), notamment les so"
@@ -4695,7 +4695,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Izuru Kira maîtrise les techniques de Kidō de niveau intermédiaire et les utilis",
@@ -4715,7 +4715,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Hisagi utilise une technique de combat fluide et acrobatique, exploitant la port",
@@ -4735,7 +4735,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat combine la grâce artistique avec la destruction musicale, cr"
@@ -4754,7 +4754,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Zanpakuto s'appelle Fuji Kujaku et possède des capacités spéciales liées aux"
@@ -4773,7 +4773,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat se caractérise par des attaques directes et agressives, priv"
@@ -4792,7 +4792,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Hanataro maîtrise le Kido et les techniques de guérison, étant spécialisé dans l",
@@ -4812,7 +4812,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son arme spirituelle (Zanpakuto) est Wabisuke, un sabre dont elle maîtrise les t",
@@ -4833,7 +4833,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sentaro ne possède pas de pouvoirs spirituels remarquables et reste un humain or",
@@ -4853,7 +4853,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir spécial, le Lanza del Relámpago, permet de créer des lances d'énergi"
@@ -4872,7 +4872,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -4889,7 +4889,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie l'attaque directe et la brutalité pure, utilisant"
@@ -4908,7 +4908,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Szayelaporro représente l'archétype du villain obsédé par le pouvoir scientifiqu"
@@ -4927,7 +4927,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir spécial lui donne la faculté de copier les techniques et les apparen",
@@ -4947,7 +4947,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il démontre une tendance à être brutal et sans pitié au combat, utilisant sa for",
@@ -4967,7 +4967,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Harribel aspire à la paix et au pouvoir personnel plutôt qu'à la domination mond",
@@ -4987,7 +4987,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir spécial, l'Aninación, lui permet de vieillir et de décomposer toute ",
@@ -5007,7 +5007,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Starrk a la capacité unique de se diviser en deux entités : lui-même et Lilinett",
@@ -5027,7 +5027,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat repose sur l'agilité et la versatilité de ses tentacules, lu",
@@ -5047,7 +5047,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Grand Fisher possède une apparence changeante due à son pouvoir Hollow, se prése",
@@ -5067,7 +5067,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Shrieker utilise un style de combat agressif et sans stratégie, privilégiant la "
@@ -5086,7 +5086,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir destructeur d'acide peut aussi être utilisé comme arme défensive, cr",
@@ -5108,7 +5108,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "White Ichigo est capable de créer et de lancer des attaques de tipo Cero, dérivé"
@@ -5127,7 +5127,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il est l'une des premières manifestations de la puissance de Hollow d'Ichigo, re",
@@ -5148,7 +5148,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise parfaitement le Cero et l'Oscuras, des techniques énergétiques dév"
@@ -5167,7 +5167,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal consiste à absorber et à réorganiser les souvenirs et l'id",
@@ -5188,7 +5188,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède le pouvoir de manipuler les cristaux spirituels et de les utiliser ",
@@ -5209,7 +5209,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Yachiru possède une capacité remarquable à sentir et identifier les réiatsu (niv",
@@ -5229,7 +5229,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie l'attaque directe et la force brute, reflétant la"
@@ -5248,7 +5248,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il souffre d'une faiblesse majeure : son Zanpakuto ne peut pas utiliser de techn",
@@ -5268,7 +5268,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède une grande expertise en Kido et en techniques de guérison, étant fo",
@@ -5289,7 +5289,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Nanao maîtrise plusieurs techniques de Kidō avancées incluant des sorts de rétab"
@@ -5308,7 +5308,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -5325,7 +5325,7 @@
       "anime": "Bleach",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son attaque spéciale Wabisuke est particulièrement efficace contre les adversair"
@@ -5342,9 +5342,9 @@
     {
       "name": "Izuku Midoriya",
       "anime": "My Hero Academia",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Izuku_Midoriya_Runway_Costume_Contest_-_Animate%21_x_Nightmare_Weekend_Des_Moines_2024.jpg/330px-Izuku_Midoriya_Runway_Costume_Contest_-_Animate%21_x_Nightmare_Weekend_Des_Moines_2024.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Izuku_Midoriya_Runway_Costume_Contest_-_Animate%21_x_Nightmare_Weekend_Des_Moines_2024.jpg/330px-Izuku_Midoriya_Runway_Costume_Contest_-_Animate%21_x_Nightmare_Weekend_Des_Moines_2024.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il est né sans Quirk (pouvoir), ce qui l'a rendu Quirkless pendant la majeure pa",
@@ -5366,7 +5366,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie l'attaque directe et l'offensive overwhelming plu"
@@ -5385,7 +5385,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "All Might a une apparence musculaire extrêmement imposante quand il active son Q",
@@ -5405,7 +5405,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat combine stratégiquement le feu et la glace pour créer des te"
@@ -5424,7 +5424,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat repose sur l'agilité, la mobilité verticale et les attaques "
@@ -5443,7 +5443,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie la vitesse et la mobilité, utilisant ses Engine p",
@@ -5463,7 +5463,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -5480,7 +5480,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kaminari idolâtre les héros populaires et professionnels, souvent admiratif face"
@@ -5499,7 +5499,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son point faible principal est que ses oreilles sont sensibles et vulnérables au",
@@ -5519,7 +5519,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": true,
@@ -5536,7 +5536,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son style de combat se concentre sur la défense avec son Quirk de durcissement, ",
@@ -5556,7 +5556,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Au combat, Koda utilise sa Quirk de manière stratégique en invoquant des animaux"
@@ -5575,7 +5575,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il utilise sa queue comme une cinquième membre, capable de la contrôler indépend"
@@ -5594,7 +5594,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sato représente l'archétype du héros avec des limitations, enseignant l'importan"
@@ -5611,9 +5611,9 @@
     {
       "name": "Deku",
       "anime": "My Hero Academia",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Izuku_Midoriya_Runway_Costume_Contest_-_Animate%21_x_Nightmare_Weekend_Des_Moines_2024.jpg/330px-Izuku_Midoriya_Runway_Costume_Contest_-_Animate%21_x_Nightmare_Weekend_Des_Moines_2024.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Izuku_Midoriya_Runway_Costume_Contest_-_Animate%21_x_Nightmare_Weekend_Des_Moines_2024.jpg/330px-Izuku_Midoriya_Runway_Costume_Contest_-_Animate%21_x_Nightmare_Weekend_Des_Moines_2024.jpg",
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Deku possède un carnet rempli d'analyses détaillées sur les Quirks et les techni",
@@ -5633,7 +5633,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Quirk le laisse temporairement sans défense après une utilisation prolongée,"
@@ -5652,7 +5652,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Present Mic souffre d'une possible faiblesse contre les attaques affectant son s"
@@ -5671,7 +5671,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son point faible principal est sa vulnérabilité face à des attaques physiques di"
@@ -5690,7 +5690,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son véritable nom est Toshinori Yagi, et il est le détenteur actuel du Quirk 'On",
@@ -5713,7 +5713,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "En tant que combattant, il utilise des techniques de feu dévastatrices combinées",
@@ -5734,7 +5734,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Best Jeanist a pris Bakugo comme apprenti pour le former à maîtriser ses pouvoir"
@@ -5753,7 +5753,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat repose sur la vitesse extrême et l'attaque par surprise plut"
@@ -5772,7 +5772,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -5789,7 +5789,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": true,
@@ -5806,7 +5806,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Spinner est un excellent grimpeur et peut utiliser ses capacités de Quirk pour d",
@@ -5826,7 +5826,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Compress a participé à l'attaque contre l'USJ (Unforeseen Simulation Joint) aux ",
@@ -5846,7 +5846,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Twice a participé à plusieurs attaques coordonnées contre les héros, y compris d"
@@ -5865,7 +5865,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il joue un rôle clé lors de l'attaque contre le camp d'entraînement des héros en"
@@ -5884,7 +5884,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sa principale faiblesse est que ses pouvoirs de paralysie ne fonctionnent que s'"
@@ -5903,7 +5903,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il est un membre actif de la Ligue des Vilains et participe à plusieurs attaques",
@@ -5923,7 +5923,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Moonfish était emprisonné à Tartarus avant de s'échapper lors de l'attaque organ",
@@ -5943,7 +5943,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il capture Eri, une jeune fille au pouvoir de Rewind, pour l'utiliser dans ses e",
@@ -5963,7 +5963,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir de Rewind est incontrôlable au début et peut affecter indifféremment",
@@ -5984,7 +5984,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "82Ranked#1097Popularity#6Members3,323,739Spring 2016TVBonesAdd to My ListWatchin",
@@ -6004,7 +6004,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Quirk, appelé 'Projection Sorcery', lui permet de projeter de puissantes att",
@@ -6027,7 +6027,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Tamaki doit manger les aliments avant de pouvoir utiliser leurs propriétés, ce q"
@@ -6046,7 +6046,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -6063,7 +6063,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -6080,7 +6080,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Le Quirk de Red Riot s'appelle Durification, lui permettant de durcir sa peau co"
@@ -6097,9 +6097,9 @@
     {
       "name": "Kirishima",
       "anime": "My Hero Academia",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kokubu_Plain.jpg/330px-Kokubu_Plain.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kokubu_Plain.jpg/330px-Kokubu_Plain.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Quirk s'appelle 'Durcissement' (Hardening), qui lui permet de durcir sa peau",
@@ -6119,7 +6119,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "En combat, Sugarman combine ses attaques sucrées avec une agilité surprenante po",
@@ -6139,7 +6139,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -6156,7 +6156,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -6173,7 +6173,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -6190,7 +6190,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il possède une grande expertise en techniques de combat rapproché combinant sa f"
@@ -6207,9 +6207,9 @@
     {
       "name": "Mandalay",
       "anime": "My Hero Academia",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mandalay_-_The_worship_of_Buddha.jpg/330px-Mandalay_-_The_worship_of_Buddha.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mandalay_-_The_worship_of_Buddha.jpg/330px-Mandalay_-_The_worship_of_Buddha.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -6226,7 +6226,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a une faiblesse face aux attaques coordonnées en équipe utilisant une tactiqu",
@@ -6246,7 +6246,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Dabi utilise des chaînes comme armes supplémentaires en combat rapproché, combin"
@@ -6265,7 +6265,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -6282,7 +6282,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Cementoss participé à la défense de l'école U.A. lors des attaques de la Ligue d"
@@ -6301,7 +6301,7 @@
       "anime": "My Hero Academia",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Power Loader possède une apparence distinctive avec un corps massif et musclé, d",
@@ -6324,9 +6324,9 @@
     {
       "name": "Yuji Itadori",
       "anime": "Jujutsu Kaisen",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Y%C5%ABji_Itadori_cosplay.jpg/330px-Y%C5%ABji_Itadori_cosplay.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Y%C5%ABji_Itadori_cosplay.jpg/330px-Y%C5%ABji_Itadori_cosplay.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Après avoir avalé le doigt de Sukuna, Yuji devient le vaisseau du Roi des Fléaux",
@@ -6348,7 +6348,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il porte toujours des lunettes noires pour masquer son pouvoir oculaire dévastat",
@@ -6368,9 +6368,9 @@
     {
       "name": "Megumi Fushiguro",
       "anime": "Jujutsu Kaisen",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Japan_Impact_2022_-_Cosplay_groupes_%2852332767002%29.jpg/330px-Japan_Impact_2022_-_Cosplay_groupes_%2852332767002%29.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Japan_Impact_2022_-_Cosplay_groupes_%2852332767002%29.jpg/330px-Japan_Impact_2022_-_Cosplay_groupes_%2852332767002%29.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Technique Maudite principale est la Manipulation des Ombres, lui permettant "
@@ -6387,9 +6387,9 @@
     {
       "name": "Nobara Kugisaki",
       "anime": "Jujutsu Kaisen",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nobara_Kugisaki_cosplay.jpg/330px-Nobara_Kugisaki_cosplay.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nobara_Kugisaki_cosplay.jpg/330px-Nobara_Kugisaki_cosplay.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son technique maudite principale s'appelle 'Cursed Speech' mais elle utilise pri",
@@ -6407,9 +6407,9 @@
     {
       "name": "Ryomen Sukuna",
       "anime": "Jujutsu Kaisen",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/2/28/RyomenSukuna.jpg/330px-RyomenSukuna.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/RyomenSukuna.jpg/330px-RyomenSukuna.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sukuna utilise principalement la technique de malédiction Expansion du Domaine, ",
@@ -6431,7 +6431,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son technique maudite principale est la 'Ratio Technique', qui divise l'espace e",
@@ -6451,7 +6451,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est la Transfiguration Humaine, lui permettant de remodele",
@@ -6474,7 +6474,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est la Technique Maudite du Doigt Cassé, qui lui permet de",
@@ -6496,7 +6496,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Maki est une utilisatrice de techniques de combat au corps-à-corps exceptionnell",
@@ -6518,7 +6518,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Ses principales faiblesses incluent sa vulnérabilité face aux techniques impliqu",
@@ -6539,7 +6539,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Toge est un utilisateur de la Technique Maudite du Langage Curseur, qui lui perm",
@@ -6561,7 +6561,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Le mangaka utilise des techniques de dessin traditionnelles combinées à des outi"
@@ -6580,7 +6580,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Contrairement aux sorciers typiques, Junpei n'a aucun pouvoir jujutsu et reste u",
@@ -6600,7 +6600,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Geto est un utilisateur de techniques maudites spécialisé dans la consommation e",
@@ -6618,9 +6618,9 @@
     {
       "name": "Yuta Okkotsu",
       "anime": "Jujutsu Kaisen",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Y%C5%ABta_Okkotsu_cosplay.jpg/330px-Y%C5%ABta_Okkotsu_cosplay.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Y%C5%ABta_Okkotsu_cosplay.jpg/330px-Y%C5%ABta_Okkotsu_cosplay.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est la Technique de Malédiction Maudite qui lui permet de ",
@@ -6641,7 +6641,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Mima maîtrise des techniques de sorcellerie jujutsu basiques mais démontre une c",
@@ -6661,7 +6661,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est la capacité à copier les techniques de jujutsu d'autre",
@@ -6686,7 +6686,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Les Death Paintings sont capables de manipuler le sang grâce à leur héritage mix",
@@ -6706,9 +6706,9 @@
     {
       "name": "Choso",
       "anime": "Jujutsu Kaisen",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il est un des Frères Maudits, des créatures créées par Kenjaku utilisant des tec",
@@ -6730,7 +6730,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Uraume maîtrise les techniques de manipulation de glace et de froid extrême, uti",
@@ -6750,7 +6750,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède une connaissance extraordinaire des techniques de magie jujutsu ancie",
@@ -6771,7 +6771,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Les doigts de Sukuna sont des objets maudits de première classe contenant chacun",
@@ -6792,7 +6792,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Technique Infinie lui permet de manipuler l'espace entre lui et ses adversai",
@@ -6814,7 +6814,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son principal pouvoir est la manipulation du feu et de la chaleur, lui permettan",
@@ -6836,7 +6836,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Hanami peut contrôler et manipuler la végétation à grande échelle, créant des at",
@@ -6857,7 +6857,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Dagon maîtrise les techniques maudites liées à l'eau et à l'environnement aquati",
@@ -6878,7 +6878,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède la technique maudite unique 'Absorption de Malveillances' qui lui per",
@@ -6899,7 +6899,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Yuki a développé une technique d'absorption de maudits qui lui permet de digérer",
@@ -6919,7 +6919,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède la technique de Jujutsu Inversée Positive qui lui permet de guérir ",
@@ -6940,7 +6940,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède la technique maudite rare permettant de créer et contrôler des poupée"
@@ -6959,7 +6959,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kusakabe est un utilisateur de Jujutsu particulièrement compétent malgré l'absen",
@@ -6981,7 +6981,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "La malédiction Useless Curse permet à Sukuna de contrôler partiellement le corps",
@@ -7004,7 +7004,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son style de combat repose sur des attaques physiques brutes et l'utilisation d'",
@@ -7024,7 +7024,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Yuuji est capable d'utiliser l'Énergie Maudite du Roi des Malédictions Sukuna, c",
@@ -7044,7 +7044,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Technique Innée, l'Expansion du Domaine, lui permet de créer un espace perso",
@@ -7066,7 +7066,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède une immense réserve de pouvoir maudit et maîtrise plusieurs technique",
@@ -7088,7 +7088,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Raidou maîtrise des techniques de maldiction avancées incluant la capacité à inv",
@@ -7109,7 +7109,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il est un utilisateur de techniques de Jujutsu spécialisé dans la manipulation d",
@@ -7130,7 +7130,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Naoya maîtrise la Technique Maudite de Projection, lui permettant de se déplacer",
@@ -7151,7 +7151,7 @@
       "anime": "Jujutsu Kaisen",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle souffre d'une cécité partielle aux techniques jujutsu, ce qui rend son appr",
@@ -7171,7 +7171,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il maîtrise la Respiration de l'Eau, une technique fondamentale de combat contre",
@@ -7192,7 +7192,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir de régénération est exceptionnel, lui permettant de reconstruire rap",
@@ -7213,7 +7213,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Zenitsu maîtrise exclusivement le style de respiration de la Foudre avec une seu",
@@ -7233,7 +7233,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sa technique de respiration principale est la Respiration de la Bête, une forme "
@@ -7252,7 +7252,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir spécial appelé 'Fleur Clémente' lui permet de voir légèrement dans l"
@@ -7271,7 +7271,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sa technique signature est la Forme Dixième de la Respiration de l'Eau, qu'il a "
@@ -7290,7 +7290,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Shinobu possède une intelligence stratégique remarquable et est souvent impliqué"
@@ -7309,7 +7309,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat unique, la Respiration de la Flamme, utilise neuf techniques",
@@ -7330,7 +7330,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Tengen est le Hashira du Son, utilisant une technique de respiration basée sur l",
@@ -7350,7 +7350,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède le pouvoir de transformer les humains en démons en les infectant avec",
@@ -7370,7 +7370,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Tomioka possède une technique secrète appelée Septième Forme améliorée, qu'il a "
@@ -7389,7 +7389,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède une flexibilité et une agilité exceptionnelles qui lui permettent d",
@@ -7409,7 +7409,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sa technique signature, le Serpent de Cascade, lui permet de créer des ondes d'é",
@@ -7429,7 +7429,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sanemi utilise une technique ultime appelée l'Épée Cyclonique du Vent qui crée d",
@@ -7449,7 +7449,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Rengoku pratique le Style de la Flamme (Honô no Kokyû), une technique de respira",
@@ -7469,7 +7469,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il est le Hashira du Son, maîtrisant une technique de respiration basée sur les ",
@@ -7489,7 +7489,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -7506,7 +7506,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kanae maîtrise la Respiration de la Fleur, une technique de combat sophistiquée "
@@ -7525,7 +7525,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -7542,7 +7542,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sabito utilise des techniques fluides et élégantes en combat, reflétant la natur"
@@ -7561,7 +7561,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise la Respiration de l'Eau et peut exécuter plusieurs formes de cette",
@@ -7581,7 +7581,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle est capable de se régénérer rapidement grâce aux pouvoirs démoniaque, mais "
@@ -7598,9 +7598,9 @@
     {
       "name": "Yahaba",
       "anime": "Demon Slayer",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Yahaba_town_hall.JPG/330px-Yahaba_town_hall.JPG",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Yahaba_town_hall.JPG/330px-Yahaba_town_hall.JPG",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -7617,7 +7617,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est la capacité à générer et manipuler des toiles d'araign",
@@ -7637,7 +7637,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Pouvoir Démoniaque principal est de manipuler les rêves et le sommeil, perme"
@@ -7656,7 +7656,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Akaza possède une peau rose pâle avec des motifs géométriques bleus sur tout son",
@@ -7679,7 +7679,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il pratique l'Art Démonique de la Glace et de la Neige, créant des attaques basé",
@@ -7699,7 +7699,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Treizième Style de Sabre Démon est une technique exclusive qu'il a créée, ca",
@@ -7720,7 +7720,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il maîtrise une technique de combat utilisant des lames énergétiques qu'il proje",
@@ -7740,7 +7740,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kaigaku maîtrise les techniques de Respiration de la Foudre qu'il a apprises de ",
@@ -7761,7 +7761,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -7778,7 +7778,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Aoi excelle dans les combats rapprochés grâce à ses techniques de respiration et",
@@ -7798,7 +7798,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise les techniques fondamentales de la Respiration de l'Eau enseignées",
@@ -7818,7 +7818,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kiyo n'a pas de pouvoirs de démon ou d'techniques de respiration, contrairement "
@@ -7837,7 +7837,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Naho maîtrise des techniques de respiration spécialisées lui permettant d'augmen",
@@ -7859,7 +7859,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Contrairement aux autres chasseurs de démons, il consomme la chair des démons po",
@@ -7880,7 +7880,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -7897,7 +7897,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il utilise des techniques de combat basées sur des faux tranchantes qu'il manipu",
@@ -7919,7 +7919,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Ses pouvoirs incluent la manipulation de cordes de tissu acérées qu'elle peut co"
@@ -7938,7 +7938,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède le pouvoir de générer et de manipuler la foudre bleue avec une grande",
@@ -7958,7 +7958,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Karaku wield des techniques de Respiration de la Foudre adaptées à sa nature dém",
@@ -7981,7 +7981,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son technique de combat repose sur des attaques aériennes rapides combinées à de",
@@ -8001,7 +8001,7 @@
       "anime": "Demon Slayer",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Akaza, Upper Moon Trois, a la capacité de régénérer instantanément ses membres g",
@@ -8022,7 +8022,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son principal pouvoir est la capacité à se transformer en Titan à volonté, ce qu",
@@ -8042,7 +8042,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise parfaitement l'équipement de manœuvre tridimensionnelle (3DMG), af"
@@ -8061,7 +8061,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8078,7 +8078,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8095,7 +8095,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle est douée en combat rapproché et en technique de combat, formée par les mil",
@@ -8116,7 +8116,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il finit par être vaincu et mangé par Eren Yeager lors de la bataille de Shigans"
@@ -8135,7 +8135,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Originaire de l'île de Marley, Reiner a été envoyé jeune comme candidat guerrier"
@@ -8154,7 +8154,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "En tant que membres de la famille royale, Historia possède accès à la Coordonnée",
@@ -8173,9 +8173,9 @@
     {
       "name": "Ymir",
       "anime": "Attack on Titan",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ymir_gets_killed_by_Froelich.jpg/250px-Ymir_gets_killed_by_Froelich.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ymir_gets_killed_by_Froelich.jpg/250px-Ymir_gets_killed_by_Froelich.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle est porteuse du Titan des Murs, l'un des neuf Titans primordiaux, ce qui lu",
@@ -8195,7 +8195,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Jean est particulièrement vulnérable aux attaques rapides et aux situations où i"
@@ -8214,7 +8214,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8231,7 +8231,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8248,7 +8248,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8263,9 +8263,9 @@
     {
       "name": "Thomas Wagner",
       "anime": "Attack on Titan",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Bon_Pote.svg/langfr-250px-Logo_Bon_Pote.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Bon_Pote.svg/langfr-250px-Logo_Bon_Pote.svg.png",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8282,7 +8282,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Mina provient d'un milieu ordinaire au sein des murs et ne possède pas de pouvoi"
@@ -8301,7 +8301,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat privilégie l'attaque directe et les mouvements offensifs rap"
@@ -8320,7 +8320,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8337,7 +8337,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat se caractérise par une approche méthodique et une bonne maît"
@@ -8356,7 +8356,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8373,7 +8373,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle utilise une technique particulière d'interrogatoire psychologique combinée "
@@ -8392,7 +8392,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Zeke peut transformer les humains en Titans sans les avaler en les exposant à so",
@@ -8412,7 +8412,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Tom excelle dans le maniement des lames et des techniques de combat en équipe",
@@ -8433,7 +8433,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kenny maîtrise exceptionnellement bien le maniement des lames omnidirectionnelle",
@@ -8454,7 +8454,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son objectif principal était de transformer Historia en Titan pour restaurer le ",
@@ -8475,7 +8475,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Frieda était une utilisatrice du Titan Colossal et détenait le pouvoir du Fondat",
@@ -8500,7 +8500,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Carla Yeager a des cheveux bruns ondulés et des yeux marron chaud, avec une appa",
@@ -8520,7 +8520,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède la capacité unique de sentir et de tracer les porteurs du Founding ",
@@ -8540,7 +8540,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Grisha possède l'ability de se transformer en Titan, spécifiquement en Titan Ass",
@@ -8561,7 +8561,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Fay représentait l'amour maternel et la protection familiale dans l'histoire d'A",
@@ -8581,7 +8581,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Pixis joue un rôle crucial dans la défense de Trost en mobilisant les troupes et"
@@ -8600,7 +8600,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il représente l'archétype du militaire bureaucratique plus intéressé par le main"
@@ -8619,7 +8619,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8636,7 +8636,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sa faiblesse principale réside dans son manque de pouvoir direct sans le soutien"
@@ -8655,7 +8655,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Son pouvoir spécial lui permet de lancer des objets massifs avec une précision e",
@@ -8676,7 +8676,7 @@
       "anime": "Attack on Titan",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il peut rétracter complètement sa chair pour révéler uniquement son squelette, u"
@@ -8695,7 +8695,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8712,7 +8712,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son existence en armure le rend immunisé à la douleur physique mais le rend vuln"
@@ -8731,7 +8731,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son objectif ultime évoluant au cours de l'histoire, il passe d'une simple ambit"
@@ -8750,7 +8750,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8767,7 +8767,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son hobby est de collectionner des livres d'automail et d'étudier les techniques"
@@ -8786,7 +8786,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [],
         "is_villain": true,
@@ -8803,7 +8803,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8820,7 +8820,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Greed est obsédé par l'accumulation de richesses, de pouvoir et de possessions, "
@@ -8839,7 +8839,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8854,9 +8854,9 @@
     {
       "name": "Pride",
       "anime": "Fullmetal Alchemist",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Marche_fiert%C3%A9s_2013.jpg/330px-Marche_fiert%C3%A9s_2013.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Marche_fiert%C3%A9s_2013.jpg/330px-Marche_fiert%C3%A9s_2013.jpg",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Pride est capable de générer et contrôler des ombres, les transformant en armes ",
@@ -8876,7 +8876,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Wrath est capable de se battre à mains nues contre des armées entières, démontre"
@@ -8895,7 +8895,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle a été créée à partir de la pierre philosophale et peut régénérer ses blessu",
@@ -8915,7 +8915,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir principal est la capacité à ouvrir un vortex dans sa gorge capable d"
@@ -8934,7 +8934,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "En tant que Père des Homonculus, il est le plus puissant de tous les créés, serv",
@@ -8954,7 +8954,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "King Bradley est le Führer (dictateur) d'Amestris et utilise le pouvoir militair"
@@ -8973,7 +8973,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -8990,7 +8990,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il montre une grande faiblesse face aux alchimistes de haut niveau, ne pouvant p"
@@ -9009,7 +9009,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9026,7 +9026,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède des compétences exceptionnelles en télécommunications et en électrote",
@@ -9047,7 +9047,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9064,7 +9064,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9081,7 +9081,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9098,7 +9098,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9115,7 +9115,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Liore désire accumuler du pouvoir absolu et devenir une entité surhumaine transc",
@@ -9136,7 +9136,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Cornello manque de véritable pouvoir alchimique personnel et dépend entièrement ",
@@ -9157,7 +9157,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son combat final contre Alphonse et Hohenheim révèle qu'il peut siphonner l'alch"
@@ -9176,7 +9176,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a vécu plusieurs siècles grâce à la Pierre Philosophale qui circule dans son ",
@@ -9196,7 +9196,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle maîtrise les techniques de combat alchimique offensif, particulièrement les",
@@ -9216,7 +9216,7 @@
       "anime": "Fullmetal Alchemist",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Ross maîtrise les techniques de combat rapproché et le maniement des armes à feu"
@@ -9235,7 +9235,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Gon développe l'ability de Nen appelée 'Jajanken' qui lui permet d'utiliser troi",
@@ -9255,7 +9255,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Killua peut générer et contrôler l'électricité grâce à sa technique Nen appelée ",
@@ -9276,7 +9276,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il utilise principalement son Nen en tant que type Émetteur, concentrant son éne",
@@ -9296,7 +9296,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kurapika possède des yeux écarlates rouges qui s'activent lorsqu'il utilise ses ",
@@ -9318,7 +9318,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": true,
@@ -9335,7 +9335,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9352,7 +9352,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Sa capacité Grimoire du Magicien (Book of Thieves) lui permet de voler et d'util",
@@ -9373,7 +9373,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Nen est basé sur la prière et la méditation, utilisant une technique appelée",
@@ -9395,7 +9395,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son style de combat est basé sur l'anticipation et la lecture des mouvements adv",
@@ -9415,7 +9415,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9432,7 +9432,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Neferpitou maîtrise l'Aura de Resurrection, un pouvoir permettant de ramener les",
@@ -9452,7 +9452,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Menthuthuyoupi maîtrise l'Aura de manière exceptionnelle et peut utiliser des te",
@@ -9474,7 +9474,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle est capable d'utiliser un pouvoir appelé 'Wish Granting' qui lui permet d'e",
@@ -9497,7 +9497,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Lors de l'arc de la succession de l'empereur chimère, il a été impliqué dans les"
@@ -9516,7 +9516,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kalluto maîtrise plusieurs techniques de combat à distance héritées de l'entraîn",
@@ -9536,7 +9536,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Silva maîtrise l'Aura et utilise principalement des attaques basées sur l'électr",
@@ -9557,7 +9557,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kikyo a développé une technique de combat basée sur l'utilisation de l'aiguille ",
@@ -9579,7 +9579,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Bisky est secrètement bien plus âgée qu'elle n'y paraît, ayant utilisé ses techn",
@@ -9599,7 +9599,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Wing utilise des techniques de méditation et de respiration pour enseigner le co"
@@ -9618,7 +9618,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Canary utilise des techniques de combat basées sur l'Aura et possède des capacit"
@@ -9637,7 +9637,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède des capacités de Nen exceptionnelles, maîtrisant plusieurs techniqu"
@@ -9656,7 +9656,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "L'Ability Knov s'appelle 'Spatial Inventory' qui lui permet de créer et stocker ",
@@ -9676,7 +9676,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Morel est un utilisateur de Nen de type Manipulation, contrôlant la fumée de ses",
@@ -9696,7 +9696,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Biscuit possède une double personnalité : elle peut devenir extrêmement musclée ",
@@ -9716,7 +9716,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9733,7 +9733,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9750,7 +9750,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle montre une grande passion pour la nature et les insectes, ce qui influence "
@@ -9769,7 +9769,7 @@
       "anime": "Hunter x Hunter",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Tonpa ne possède pas d'Aura ou de techniques de Nen développées, ce qui le rend "
@@ -9788,7 +9788,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Lelouch possède des cheveux noirs mi-longs et des yeux violets distinctifs qui d",
@@ -9810,7 +9810,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son principal pouvoir réside dans sa capacité de pilotage exceptionnelle et sa m"
@@ -9829,7 +9829,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9846,7 +9846,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède le pouvoir de Geass appelé 'Immortalité', qui lui permet de survivr",
@@ -9866,7 +9866,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Milly n'a pas de pouvoir Geass contrairement à Lelouch, mais compense par son in",
@@ -9887,7 +9887,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Rivalz n'possède aucun pouvoir géass, contrairement à plusieurs personnages prin",
@@ -9907,7 +9907,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle est une utilisatrice de Geass avec le pouvoir de manipulation mentale, lui "
@@ -9926,7 +9926,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son Geass lui permet de créer des explosifs mentalement, mais ce pouvoir est en "
@@ -9945,7 +9945,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -9962,7 +9962,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il est connu pour être impulsif, égoïste et tyrannique dans son exercice du pouv",
@@ -9983,7 +9983,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son évolution dans la série la montre progressivement remettant en question ses "
@@ -10002,7 +10002,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Euphemia détient le titre de Vice-royale de la Zone 11 (Japon) et exerce un pouv"
@@ -10021,7 +10021,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Odyssey possède des cheveux violets distinctifs et des yeux dorés caractéristiqu",
@@ -10041,7 +10041,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son pouvoir de Geass consomme énormément d'énergie et provoque des saignements d"
@@ -10060,7 +10060,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Jeremiah est capable d'utiliser des Geass limitées après avoir reçu ses modifica"
@@ -10079,7 +10079,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10096,7 +10096,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il pilote un Knightmare Frame avec compétence, démontrant une maîtrise technique",
@@ -10116,7 +10116,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il a découvert et capturé le Geass de Lelouch, comprenant partiellement la natur"
@@ -10135,7 +10135,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Cecile entretient une relation proche avec Lelouch vi Britannia, pour qui elle t"
@@ -10154,7 +10154,7 @@
       "anime": "Code Geass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle est capable de se battre efficacement lorsque la situation l'exige, utilisa"
@@ -10173,7 +10173,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Okabe réalise finalement que le vrai pouvoir réside non pas dans la maîtrise du "
@@ -10192,7 +10192,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10209,7 +10209,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Mayuri a le pouvoir de repérer les changements dans la ligne temporelle grâce à "
@@ -10228,7 +10228,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il développe une grande admiration pour Okabe Rintaro, acceptant son rôle de sup"
@@ -10247,7 +10247,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10264,7 +10264,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": true,
@@ -10281,7 +10281,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [],
         "is_villain": true,
@@ -10298,7 +10298,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10315,7 +10315,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10332,7 +10332,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": true,
@@ -10349,7 +10349,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10366,7 +10366,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10383,7 +10383,7 @@
       "anime": "Steins Gate",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10400,7 +10400,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Akane provient d'une famille ordinaire sans connexion particulière au pouvoir, c"
@@ -10419,7 +10419,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kougami maîtrise plusieurs techniques de combat rapproché et est un tireur d'éli"
@@ -10438,7 +10438,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10455,7 +10455,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Masaoka maîtrise le combat rapproché et l'utilisation d'armes, étant un inspecte"
@@ -10474,7 +10474,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10491,7 +10491,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Masaoka excelle dans les techniques de combat rapproché et maîtrise l'utilisatio"
@@ -10510,7 +10510,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Kagari est un combattant compétent au combat rapproché, utilisant des techniques"
@@ -10529,7 +10529,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": true,
@@ -10546,7 +10546,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Le Sibyl System prétend être neutre et objectif, mais cache en réalité un biais "
@@ -10565,7 +10565,7 @@
       "anime": "Psycho-Pass",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10582,7 +10582,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Son surnom 'Mob' signifie 'personne ordinaire' en japonais, reflétant son désir ",
@@ -10607,7 +10607,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Contrairement à Mob, Reigen n'a aucun pouvoir psychique réel et utilise des tech",
@@ -10629,7 +10629,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Teruki possède des cheveux blonds platine distinctive et des yeux dorés qui refl",
@@ -10654,7 +10654,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Ritsu possède des pouvoirs psychiques similaires à ceux de Mob, mais il les a dé",
@@ -10679,7 +10679,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède la capacité de posséder le corps des humains pour augmenter considéra",
@@ -10701,7 +10701,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Il dirige secrètement une organisation souterraine d'espers et joue un rôle poli",
@@ -10723,7 +10723,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Mitsuo ne possède aucun pouvoir psychique mais compense par sa force physique su",
@@ -10744,7 +10744,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Elle possède des pouvoirs psychiques exceptionnels, notamment la télékinésie et ",
@@ -10767,7 +10767,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Il possède des pouvoirs psychiques relativement modérés comparé à Mob, se manife",
@@ -10787,7 +10787,7 @@
       "anime": "Mob Psycho 100",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Claw fonctionne selon une hiérarchie stricte avec des niveaux de puissance déter",
@@ -10808,7 +10808,7 @@
       "anime": "Vinland Saga",
       "imageUrl": null,
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
@@ -10823,9 +10823,9 @@
     {
       "name": "Askeladd",
       "anime": "Vinland Saga",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png",
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [
           "Askeladd excelle au combat rapproché avec une épée et utilise des techniques de "
@@ -10842,9 +10842,9 @@
     {
       "name": "Ragnar Lothbrok",
       "anime": "Vinland Saga",
-      "imageUrl": "https://fr.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ragnar_Lodbroks_d%C3%B6d_by_Hugo_Hamilton.jpg/250px-Ragnar_Lodbroks_d%C3%B6d_by_Hugo_Hamilton.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ragnar_Lodbroks_d%C3%B6d_by_Hugo_Hamilton.jpg/250px-Ragnar_Lodbroks_d%C3%B6d_by_Hugo_Hamilton.jpg",
       "attributes": {
-        "gender": "male",
+        "gender": "female",
         "role": "protagonist",
         "powers": [
           "Malgré sa puissance, Ragnar souffre de la solitude du pouvoir absolu et d'un pas",
@@ -10865,7 +10865,7 @@
       "anime": "Vinland Saga",
       "imageUrl": null,
       "attributes": {
-        "gender": "female",
+        "gender": "male",
         "role": "protagonist",
         "powers": [],
         "is_villain": false,
