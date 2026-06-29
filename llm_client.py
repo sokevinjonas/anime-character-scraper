@@ -106,7 +106,7 @@ Example: ["fact1", "fact2", ...]"""
                 contentType='application/json',
                 accept='application/json',
                 body=json.dumps({
-                    "anthropic_version": "bedrock-2023-06-01",
+                    "anthropic_version": "bedrock-2023-05-31",
                     "max_tokens": 1024,
                     "messages": [
                         {

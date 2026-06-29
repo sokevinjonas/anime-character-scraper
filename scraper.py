@@ -103,8 +103,8 @@ class AnimeCharacterScraper:
         except Exception as e:
             print(f"    {Fore.YELLOW}⚠️  Fandom skip: {e}{Style.RESET_ALL}")
 
-        # Remove duplicates
-        result['knowledge_base'] = list(dict.fromkeys(result['knowledge_base']))
+        # Remove duplicates et limiter à 14 facts
+        result['knowledge_base'] = list(dict.fromkeys(result['knowledge_base']))[:14]
 
         print(f"{Fore.GREEN}✓ Scraped {len(result['knowledge_base'])} facts{Style.RESET_ALL}")
 

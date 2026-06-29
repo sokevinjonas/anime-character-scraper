@@ -262,9 +262,15 @@ for char in all_characters:
 for anime in sorted(count_by_anime.keys()):
     print(f"  {anime}: {count_by_anime[anime]}")
 
+# Limiter à 500 persos
+all_characters = all_characters[:500]
+
+# Imprimer la statistique finale
+print(f"\nFinal: {len(all_characters)} personnages (limité à 500)\n")
+
 # Sauvegarder en JSON
 output = {"characters": all_characters}
-with open("data/all_characters_1000.json", "w", encoding="utf-8") as f:
+with open("data/all_characters.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
-print(f"\n✅ Saved to data/all_characters_1000.json")
+print(f"✅ Saved to data/all_characters.json")

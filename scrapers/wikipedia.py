@@ -9,7 +9,7 @@ from typing import Optional, Dict, List
 from urllib.parse import quote
 
 class WikipediaScraper:
-    BASE_URL = "https://en.wikipedia.org"
+    BASE_URL = "https://fr.wikipedia.org"
     HEADERS = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
@@ -21,8 +21,8 @@ class WikipediaScraper:
         self.session.headers.update(self.HEADERS)
 
     def search_character(self, character_name: str, anime_name: str) -> Optional[Dict]:
-        """Search for a character on Wikipedia."""
-        print(f"  🔍 Wikipedia Search: {character_name}")
+        """Search for a character on Wikipedia (French)."""
+        print(f"  🔍 Wikipedia FR Search: {character_name}")
 
         try:
             # Essayer le titre direct
@@ -81,7 +81,7 @@ class WikipediaScraper:
                     image_url = img_tag.get('src')
                     # Convert relative to absolute URL
                     if image_url.startswith('/'):
-                        image_url = f"https://en.wikipedia.org{image_url}"
+                        image_url = f"https://fr.wikipedia.org{image_url}"
                     details['imageUrl'] = image_url
 
             # Récupérer la description (premiers paragraphes)
